@@ -1,6 +1,12 @@
 <div class="tile">
     <div class="inner-guts">
         <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+        <div class="author">
+            <a href="mailto:{{ post.author_email }}">
+                <img class="img-rounded" src="{{ post.author_pic | prepend: '/img/autores/' | prepend: site.url }}" width="27" height="27">
+                <span class="author-name">{{ post.author }}</span>
+            </a>
+        </div>
         <aside>
             {{ post.date | date: "%d.%m.%y" }}
             {% if post.categories != empty %}
@@ -11,6 +17,7 @@
             {% endif %}
             &middot; {% include tweet-share.html %} {% include tweet-follow.html %}
         </aside>
+
         <div style="display: inline;">
         {% if post.featured_image or post.featured_video_id or post.local_featured_image %}
         <a href="{{ post.url | prepend: site.baseurl }}" class="featurette float-left">

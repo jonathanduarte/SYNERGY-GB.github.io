@@ -25,6 +25,12 @@
         </span>
     </h1>
     {% if page.id %}
+    <div class="author">
+        <a href="mailto:{{ page.author_email }}">
+            <img class="img-rounded" src="{{ page.author_pic | prepend: '/img/autores/' | prepend: site.url }}" width="27" height="27">
+            <span class="author-name">{{ page.author }}</span>
+        </a>
+    </div>
     <aside>
         {{ page.date | date: "%m.%d.%y" }}
         {% if page.categories != empty %}
