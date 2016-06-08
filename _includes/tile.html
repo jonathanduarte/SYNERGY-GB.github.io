@@ -11,10 +11,14 @@
             {% endif %}
         </aside>
         <div style="display: inline;">
-        {% if post.featured_image or post.featured_video_id %}
+        {% if post.featured_image or post.featured_video_id or post.local_featured_image %}
         <a href="{{ post.url | prepend: site.baseurl }}" class="featurette float-left">
             {% if post.featured_image %}
             <span class="img" style="background-image: url('{{ post.featured_image }}');"></span>
+            {% endif %}
+
+            {% if post.local_featured_image %}
+            <span class="img" style="background-image: url('{{ post.local_featured_image | prepend: "/img/" | prepend: site.data.global.url }}');">
             {% endif %}
 
             {% if post.featured_video_id %}

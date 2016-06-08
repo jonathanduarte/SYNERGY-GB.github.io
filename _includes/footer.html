@@ -3,7 +3,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <p class="text-muted">{{ site.data.global.footer_text }}</p>
+                    <p>
+                        <span class="text-muted">{{ site.data.global.footer_text }}</span>
+                        <img class="footer-img" src="{{ 'bysynergygb.png' | prepend: "/img/" | prepend: site.data.global.url }}">
+                    </p>
                 </div>
             </div>
         </div>
@@ -18,5 +21,7 @@
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
     <!--script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script-->
     <script src="{{ site.data.global.url }}/js/power.js"></script>
+
+    {% include analytics.html %}
     </body>
 </html>
