@@ -20,13 +20,13 @@
 
         <div style="display: inline;">
         {% if post.featured_image or post.featured_video_id or post.local_featured_image %}
-        <a href="{{ post.url | prepend: site.baseurl }}" class="featurette float-left">
+        <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}" class="featurette float-left">
             {% if post.featured_image %}
-            <span class="img img-rounded" style="background-image: url('{{ post.featured_image }}');"></span>
+            <span class="img" style="background-image: url('{{ post.featured_image }}');"></span>
             {% endif %}
 
             {% if post.local_featured_image %}
-            <span class="img img-rounded" style="background-image: url('{{ post.local_featured_image | prepend: "/img/" | prepend: site.data.global.url }}');">
+            <span class="img" style="background-image: url('{{ post.local_featured_image | prepend: "/img/" | prepend: site.data.global.url }}');">
             {% endif %}
 
             {% if post.featured_video_id %}
@@ -45,7 +45,7 @@
         </div>
         {% endif %}
 
-        <a href="{{ post.url | prepend: site.baseurl }}" class="read-more btn btn-info btn-lg">
+        <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}" class="read-more btn btn-info btn-lg">
             Ver más... 
             <i class="fa fa-angle-right"></i>
         </a>
