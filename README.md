@@ -57,6 +57,10 @@ We added a few things we consider great.
 
 We plan to keed adding more features.
 
+## Sites made with this template
+
+- [blog.synergy-gb.com](http://blog.synergy-gb.com)
+- ADD A NEW LINE WITH YOURS HERE....
 
 ## MIT License
 
