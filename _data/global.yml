@@ -9,8 +9,10 @@ footer_text: 'Copyright &copy; 2007-2016. Synergy-GB. All Rights Reserved.'
 admin_name: 'Alexander A. Ramírez M.'
 admin_email: 'alexander.ramirez@synergy-gb.com'
 
-# Google Analytics
+# Google Analytics inserted in analytics.html
 tracking_id: UA-78958361-1
 
+# Twitter.. inserted in tweet-follow and tweet-share
+twitter_username: synergygb
 
 
