@@ -61,7 +61,7 @@ We plan to keed adding more features.
 ## Sites made with this template
 
 - [blog.synergy-gb.com](http://blog.synergy-gb.com)
-[JonathanDuarte.rocks](http://jonathanduarte.rocks/)
+- [JonathanDuarte.rocks](http://jonathanduarte.rocks/)
 - ADD A NEW LINE WITH YOURS HERE....
 
 ## MIT License
