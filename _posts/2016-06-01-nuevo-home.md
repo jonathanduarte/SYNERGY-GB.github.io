@@ -1,7 +1,7 @@
 ---
 layout: inner
 title: Nos mudamos...
-date: {}
+date: 2016-06-15
 categories: blog
 tags: Synergy-GB
 local_featured_image: newhome.jpg
