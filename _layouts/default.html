@@ -1,14 +1,13 @@
 {% include header.html %}
-    <!--{% include title-group.html %}-->
     <main>
+        {% include language.html %}
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    {% for post in paginator.posts %}
-                        {% include tile.html %}
+                    {% assign posts=site.posts | where:'lang',page.lang %}
+                    {% for post in posts %}
+                    {% include tile.html %}
                     {% endfor %}
-
-                    {% include pagination.html %}
                 </div>
             </div>
         </div>

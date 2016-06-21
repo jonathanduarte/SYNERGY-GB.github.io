@@ -2,6 +2,8 @@
 layout: inner
 title: 'Nos mudamos...'
 date: 2016-06-01 13:26:34
+ref: nosmudamos
+lang: es
 categories: blog
 tags: Synergy-GB
 local_featured_image: 'newhome.jpg'

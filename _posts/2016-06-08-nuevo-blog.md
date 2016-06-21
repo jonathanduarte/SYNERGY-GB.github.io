@@ -2,6 +2,8 @@
 layout: inner
 title: 'Tenemos nuevo Blog...'
 date: 2016-06-08 13:26:34
+ref: nuevoblog
+lang: es
 categories: blog
 tags: Synergy-GB
 local_featured_image: 'oficina-sgb.png'
