@@ -5,7 +5,7 @@
         {% endif %}
 
         {% if page.local_featured_image %}
-        <span class="img" style="background-image: url('{{ page.local_featured_image | prepend: "/img/" | prepend: site.data.global.url }}');">
+        <span class="img" style="background-image: url('{{ page.local_featured_image | prepend: site.data.global.images | prepend: site.data.global.url }}');">
         {% endif %}
 
         {% if page.featured_video_id %}
@@ -13,6 +13,8 @@
         {% endif %}
     </div>
 {% endif %}
+
+{% include language.html %}
 
 <div class="title-group">
     <h1 class="special">
@@ -27,12 +29,12 @@
     {% if page.id %}
     <div class="author">
         <a href="mailto:{{ page.author_email }}">
-            <img class="img-rounded" src="{{ page.author_pic | prepend: '/img/autores/' | prepend: site.url }}" width="27" height="27">
+            <img class="img-rounded" src="{{ page.author_pic | prepend: site.data.global.author_images | prepend: site.url }}" height="27">
             <span class="author-name">{{ page.author }}</span>
         </a>
     </div>
     <aside>
-        {{ page.date | date: "%m.%d.%y" }}
+        {{ page.date | date: "%Y.%m.%d" }}
         {% if page.categories != empty %}
             &middot;
             {% for category in page.categories %}
