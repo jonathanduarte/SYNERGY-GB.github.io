@@ -4,8 +4,8 @@ title: 'Nos mudamos...'
 date: 2016-06-01 13:26:34
 ref: nosmudamos
 lang: es
-categories: blog
-tags: Synergy-GB
+categories: [Anuncios]
+tags: [Synergy-GB]
 local_featured_image: 'newhome.jpg'
 author: Alexander A. Ramírez M.
 author_pic: Alexander_Ramirez.jpg

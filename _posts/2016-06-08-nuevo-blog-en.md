@@ -4,8 +4,8 @@ title: 'We have a new Blog...'
 date: 2016-06-08 13:26:34
 ref: nuevoblog
 lang: en
-categories: blog
-tags: Synergy-GB
+categories: [Announcements]
+tags: [Synergy-GB]
 local_featured_image: 'oficina-sgb.png'
 author: Alexander A. Ramírez M.
 author_pic: Alexander_Ramirez.jpg

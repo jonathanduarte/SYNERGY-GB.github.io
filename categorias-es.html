@@ -1,0 +1,53 @@
+---
+layout: inner
+lang: es
+ref: categories
+title: Categorías
+---
+
+{% assign rawcategories = "" %}
+{% assign posts=site.posts | where:'lang',page.lang %}
+{% for post in posts %}
+	{% assign tcateg = post.categories | join:'|' | append:'|' %}
+	{% assign rawcategories = rawcategories | append:tcateg %}
+{% endfor %}
+{% assign rawcategories = rawcategories | split:'|' | sort %}
+
+{% assign categories = "" %}
+{% for cat in rawcategories %}
+	{% if cat != "" %}
+		{% if categories == "" %}
+			{% assign categories = cat | split:'|' %}
+		{% endif %}
+		{% unless categories contains cat %}
+			{% assign categories = categories | join:'|' | append:'|' | append:cat | split:'|' %}
+		{% endunless %}
+	{% endif %}
+{% endfor %}
+
+{% for cat in categories %}
+	<a href="#{{ cat | slugify }}"> {{ cat }} </a>
+{% endfor %}
+
+
+{% for cat in categories %}
+	<h2 id="{{ cat | slugify }}">{{ cat }}</h2>
+	<ul>
+	 {% assign posts=site.posts | where:'lang',page.lang %}
+	 {% for post in posts %}
+		 {% if post.categories contains cat %}
+		 <li>
+		 <h3>
+		 <a href="{{ post.url }}">
+		 {{ post.title }}
+		 <small>{{ post.date | date_to_string }}</small>
+		 </a>
+		 {% for cat in post.categories %}
+			 <a class="cat" href="/blog/cat/#{{ cat | slugify }}">{{ cat }}</a>
+		 {% endfor %}
+		 </h3>
+		 </li>
+		 {% endif %}
+	 {% endfor %}
+	</ul>
+{% endfor %}
