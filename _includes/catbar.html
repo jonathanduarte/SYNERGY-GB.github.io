@@ -21,7 +21,7 @@
 <div class="collapse navbar-collapse">
 <ul class="nav navbar-nav navbar-left">
 {% for cat in categories %}
-<button type="button" class="btn btn-default navbar-btn"><a href="/cat/{{ cat }}.html"> {{ cat }} </a></button>
+<button type="button" class="btn btn-default navbar-btn"><a href="/cat/{{ cat | capitalize }}.html"> {{ cat }} </a></button>
 {% endfor %}
 </ul>
 </div>
