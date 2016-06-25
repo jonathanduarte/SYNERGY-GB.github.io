@@ -1,0 +1,29 @@
+{% assign rawcategories = "" %}
+{% assign posts=site.posts | where:'lang',page.lang %}
+{% for post in posts %}
+	{% assign tcateg = post.categories | join:'|' | append:'|' %}
+	{% assign rawcategories = rawcategories | append:tcateg %}
+{% endfor %}
+{% assign rawcategories = rawcategories | split:'|' | sort %}
+
+{% assign categories = "" %}
+{% for cat in rawcategories %}
+	{% if cat != "" %}
+		{% if categories == "" %}
+			{% assign categories = cat | split:'|' %}
+		{% endif %}
+		{% unless categories contains cat %}
+			{% assign categories = categories | join:'|' | append:'|' | append:cat | split:'|' %}
+		{% endunless %}
+	{% endif %}
+{% endfor %}
+
+<div class="collapse navbar-collapse">
+<ul class="nav navbar-nav navbar-left">
+{% for cat in categories %}
+<button type="button" class="btn btn-default navbar-btn"><a href="/cat/{{ cat | slugify }}.html"> {{ cat }} </a></button>
+{% endfor %}
+</ul>
+</div>
+
+
