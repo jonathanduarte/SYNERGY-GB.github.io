@@ -70,5 +70,6 @@ prose:
   metadata:
     _posts: 
       - name: layout
-        element: hidden
-        value: inner
+        field:
+          element: hidden
+          value: inner
