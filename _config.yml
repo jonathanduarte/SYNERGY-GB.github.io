@@ -103,3 +103,34 @@ prose:
               value: "- Anuncios"
             - name: Productos
               value: "- Productos"
+      - name: tags
+        field:
+          element: multiselect
+          label: Escoja la(s) etiquetas de su Publicación
+          help: Puede escojer una o mas etiquetas
+          alterable: true 
+      - name: local_featured_image
+        field:
+          element: text
+          label: Ingrese la imagen de su Publicación
+          placeholder: Nombre del archivo.jpg o png etc...
+      - name: author
+        field:
+          element: text
+          label: Ingrese el nombre del autor
+          placeholder: Nombre y apellido 
+      - name: author_pic
+        field:
+          element: text
+          label: Ingrese la imagen para el Autor de la Publicación
+          placeholder: Nombre del archivo.jpg o png etc...   
+      - name: author_email
+        field:
+          element: text
+          label: Ingrese el correo electronico del Autor de la Publicación
+          placeholder: algo@synergy-gb.com
+      - name: lead_text
+        field:
+          element: text
+          label: Ingrese una Pequeña Descripción de su Publicacion 
+          placeholder: Corta Descripción
