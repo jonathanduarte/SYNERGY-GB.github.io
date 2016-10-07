@@ -67,3 +67,8 @@ include: ['_pages']
 
 prose:
   rooturl: '_posts'
+  metadata:
+    _posts: 
+      - name: layout
+        element: hidden
+        value: inner
