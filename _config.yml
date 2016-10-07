@@ -75,6 +75,17 @@ prose:
           value: inner
       - name: date 
         field:
-          element: "text"
-          label: "Fecha de la Publicación"
-          value: "CURRENT_DATETIME"
+          element: text
+          label: Fecha de la Publicación
+          value: CURRENT_DATETIME
+      - name: ref
+        field:
+          element: text
+          label: Referencia
+          placeholder: Etiqueta de referencia al articulo publicado
+      - name: lang
+        field:
+          element: multiselect
+          label: Escoja el Lenguaje de su Publicación
+          help: Puede ser Español e Ingles
+          alterable: true
