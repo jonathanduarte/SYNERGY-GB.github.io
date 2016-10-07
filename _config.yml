@@ -7,12 +7,12 @@ data_dir:    ./_data
 # collections: null
 
 # Handling Reading
-safe:         false
-include:      [".htaccess"]
-exclude:      []
-keep_files:   [".git", ".svn"]
-encoding:     "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+#safe:         false
+#include:      [".htaccess"]
+#exclude:      []
+#keep_files:   [".git", ".svn"]
+#encoding:     "utf-8"
+#markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Filtering Content
 show_drafts: null
@@ -29,12 +29,6 @@ markdown:    kramdown
 #highlighter: pygments
 lsi:         false
 excerpt_separator: "\n\n"
-
-# Serving
-detach:  false
-port:    4000
-host:    127.0.0.1
-baseurl: "" # does not include hostname
 
 # Outputting
 permalink:     /:title.html
@@ -70,3 +64,73 @@ kramdown:
 
 
 include: ['_pages']
+
+prose:
+  rooturl: '_posts'
+  metadata:
+    _posts: 
+      - name: layout
+        field:
+          element: hidden
+          value: inner
+      - name: date 
+        field:
+          element: text
+          label: Fecha de la Publicación
+          value: CURRENT_DATETIME
+      - name: ref
+        field:
+          element: text
+          label: Referencia
+          placeholder: Etiqueta de referencia al articulo publicado
+      - name: lang
+        field:
+          element: multiselect
+          label: Escoja el Lenguaje de su Publicación
+          help: Puede ser Español e Ingles
+          alterable: true
+          options:
+            - name: Español
+              value: es 
+            - name: Ingles
+              value: en
+      - name: categories
+        field:
+          element: select
+          label: Escoja la categoría de su Publicación
+          options:
+            - name: Anuncios
+              value: "- Anuncios"
+            - name: Productos
+              value: "- Productos"
+      - name: tags
+        field:
+          element: multiselect
+          label: Escoja la(s) etiquetas de su Publicación
+          help: Puede escojer una o mas etiquetas
+          alterable: true 
+      - name: local_featured_image
+        field:
+          element: text
+          label: Ingrese la imagen de su Publicación
+          placeholder: Nombre del archivo.jpg o png etc...
+      - name: author
+        field:
+          element: text
+          label: Ingrese el nombre del autor
+          placeholder: Nombre y apellido 
+      - name: author_pic
+        field:
+          element: text
+          label: Ingrese la imagen para el Autor de la Publicación
+          placeholder: Nombre del archivo.jpg o png etc...   
+      - name: author_email
+        field:
+          element: text
+          label: Ingrese el correo electronico del Autor de la Publicación
+          placeholder: algo@synergy-gb.com
+      - name: lead_text
+        field:
+          element: textarea
+          label: Ingrese una Pequeña Descripción de su Publicacion 
+          placeholder: "Lorem ipsum dolor sit amet, turpis gravida ac apien mattis egestas vestibulum, morbi proin, interdum quis sed amet elit ultrices. Id in. Morbi id. ..."
