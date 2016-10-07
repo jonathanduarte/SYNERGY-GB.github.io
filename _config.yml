@@ -94,3 +94,12 @@ prose:
               value: es 
             - name: Ingles
               value: en
+      - name: categories
+        field:
+          element: select
+          label: Escoja la categoría de su Publicación
+          options:
+            - name: Anuncios
+              value: "- Anuncios"
+            - name: Productos
+              value: "- Productos"
