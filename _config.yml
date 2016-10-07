@@ -74,7 +74,7 @@ prose:
           element: hidden
           value: inner
       - name: date 
-          field:
-            element: "text"
-            label: "Fecha de la Publicación"
-            value: "CURRENT_DATETIME"
+        field:
+          element: "text"
+          label: "Fecha de la Publicación"
+          value: "CURRENT_DATETIME"
