@@ -1,2 +1,2 @@
 main:
-    - { url: 'http://synergy-gb.com', text: 'home' }
+   # - { url: 'http://synergy-gb.com', text: 'home' }

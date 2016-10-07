@@ -70,3 +70,6 @@ kramdown:
 
 
 include: ['_pages']
+
+prose:
+  rooturl: '_posts'
