@@ -7,12 +7,12 @@ data_dir:    ./_data
 # collections: null
 
 # Handling Reading
-safe:         false
-include:      [".htaccess"]
-exclude:      []
-keep_files:   [".git", ".svn"]
-encoding:     "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+#safe:         false
+#include:      [".htaccess"]
+#exclude:      []
+#keep_files:   [".git", ".svn"]
+#encoding:     "utf-8"
+#markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Filtering Content
 show_drafts: null
@@ -29,12 +29,6 @@ markdown:    kramdown
 #highlighter: pygments
 lsi:         false
 excerpt_separator: "\n\n"
-
-# Serving
-detach:  false
-port:    4000
-host:    127.0.0.1
-baseurl: "" # does not include hostname
 
 # Outputting
 permalink:     /:title.html
