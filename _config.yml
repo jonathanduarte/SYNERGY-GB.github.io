@@ -131,6 +131,6 @@ prose:
           placeholder: algo@synergy-gb.com
       - name: lead_text
         field:
-          element: text
+          element: textarea
           label: Ingrese una Pequeña Descripción de su Publicacion 
-          placeholder: Corta Descripción
+          placeholder: "Lorem ipsum dolor sit amet, turpis gravida ac apien mattis egestas vestibulum, morbi proin, interdum quis sed amet elit ultrices. Id in. Morbi id. ..."
