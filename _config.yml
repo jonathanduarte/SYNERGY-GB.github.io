@@ -89,3 +89,8 @@ prose:
           label: Escoja el Lenguaje de su Publicación
           help: Puede ser Español e Ingles
           alterable: true
+          options:
+            - name: Español
+              value: es 
+            - name: Ingles
+              value: en
