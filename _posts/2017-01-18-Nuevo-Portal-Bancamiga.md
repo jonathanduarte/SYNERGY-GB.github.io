@@ -16,12 +16,11 @@ author: José Rivera
 author_pic: Jose_Rivera.jpg
 author_email: jose.rivera@synergy-gb.com
 lead_text: >-
-  BANCAMIGA bajo el marco de su proceso de transformación digital enfocada en
-  brindarle una mejor experiencia a sus clientes desde cualquier plataforma, en
-  colaboración de Synergy-GB anuncia a sus clientes el lanzamiento de su nuevo
-  canal móvil tanto para Android como para iOS. Esta aplicación, lanzada hace
-  muy pocos días, nos permite realizar varias operaciones muy útiles desde
-  nuestro smartphone.
+  BANCAMIGA comprometido con una visión de futuro y fiel a su estrategia de
+  innovación en productos y servicios, en colaboración de Synergy-GB anuncia a
+  sus clientes el lanzamiento de su novedoso website comercial, con una
+  estructura y diseño mejorado que facilita la accesibilidad a todas las
+  novedades, productos y servicios de la institución bancaria.
 ---
 Siguiendo las últimas tendencias del mundo online, la nueva web tiene un diseño más visual y contenidos más dinámicos además de adaptarse perfectamente a todos los dispositivos de navegación, gracias al uso de tecnologías “responsive”. 
 
