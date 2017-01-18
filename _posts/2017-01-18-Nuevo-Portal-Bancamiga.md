@@ -23,7 +23,7 @@ lead_text: >-
   muy pocos días, nos permite realizar varias operaciones muy útiles desde
   nuestro smartphone.
 ---
-Siguiendo las últimas tendencias del mundo online, la nueva web tiene un diseño más visual y contenidos más dinámicos además de adaptarse perfectamente a todos los dispositivos de navegació, gracias al uso de tecnologías “responsive”. 
+Siguiendo las últimas tendencias del mundo online, la nueva web tiene un diseño más visual y contenidos más dinámicos además de adaptarse perfectamente a todos los dispositivos de navegación, gracias al uso de tecnologías “responsive”. 
 
 
 Han sido incorporadas nuevas secciones con más información y más contenido visual enriquecido, para hacer la navegación más sencilla y mejorar la experiencia de los usuarios.
