@@ -3,7 +3,7 @@ layout: inner
 date: '2017-01-18 12:57 -0400'
 categories: '- Anuncios'
 published: true
-ref: bancamigawebsite
+ref: 'Nuevo portal en Bancamiga '
 lang:
   - es
 tags:
