@@ -2,7 +2,7 @@
 layout: inner
 date: '2017-01-18 12:57 -0400'
 categories: '- Anuncios'
-published: false
+published: true
 ref: bancamigawebsite
 lang:
   - es
@@ -27,5 +27,3 @@ Uno de los aspectos más importantes que se incorporaron a este nuevo sitio web,
 Le invitamos a navegar en este nuevo portal http://www.bancamiga.com banca por internet rápida, atractiva, cómoda y segura.
  
 BANCAMIGA y Synergy-GB una alianza estratégica para la generación de soluciones en canales digitales innovadores.
-
-
