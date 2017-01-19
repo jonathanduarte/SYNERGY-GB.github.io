@@ -31,6 +31,7 @@ Uno de los aspectos más importantes que se incorporaron a este nuevo sitio web,
 
 Le invitamos a navegar en este nuevo portal [http://www.bancamiga.com](http://www.bancamiga.com) portal bancario con tecnología bySynergyGB: rápida, atractiva, cómoda y segura.
 
+
  
 [BANCAMIGA][1] y [Synergy-GB][2] una alianza estratégica para la generación de soluciones en canales digitales innovadores.
 
