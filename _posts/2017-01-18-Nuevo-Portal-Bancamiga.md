@@ -27,9 +27,9 @@ Siguiendo las últimas tendencias del mundo online, el nuevo Portal comercial de
 
 Han sido incorporadas nuevas secciones con más información y más contenido visual enriquecido, para hacer la navegación más sencilla y mejorar la experiencia de los usuarios.
  
-Uno de los aspectos más importantes que se incorporaron a este nuevo sitio web, son todos los adelantes tecnológicos a nivel de seguridad contra virus, ataque, _malwares_, _keyloggers_, _rootkit_, etc. que han estado en el tapete luego de las vulnerabilidades en tecnologías obsoletas que pueden poner en riesgos el negocio bancario, como se pudo corroborar en el caso de los famosos **_Panama Paper’s_**.
+Uno de los aspectos más importantes que se incorporaron a este nuevo sitio web, son todos los adelantes tecnológicos a nivel de seguridad contra virus y ataques _malwares_, _keyloggers_, _rootkit_, etc. que han estado en el tapete luego de las vulnerabilidades en tecnologías obsoletas que pueden poner en riesgos el negocio bancario, como se pudo corroborar en el caso de los famosos **_Panama Paper’s_**.
 
-Le invitamos a navegar en este nuevo portal [http://www.bancamiga.com](http://www.bancamiga.com) banca por internet rápida, atractiva, cómoda y segura.
+Le invitamos a navegar en este nuevo portal [http://www.bancamiga.com](http://www.bancamiga.com) portal bancario con tecnología bySynergyGB: rápida, atractiva, cómoda y segura.
  
 [BANCAMIGA][1] y [Synergy-GB][2] una alianza estratégica para la generación de soluciones en canales digitales innovadores.
 
