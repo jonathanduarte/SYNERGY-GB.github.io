@@ -7,10 +7,10 @@ permalink: /assets/json/customize.json
   "style" : {
 	
 	"sectionTitle" : {
-		"background_color": "#F89004",
+		"background_color": "#004e9b",
 		"font_size":"20px",
-		"font_color":"yellow",
-		"text_align":"right"		
+		"font_color":"black",
+		"text_align":"center"		
 	}
 	
   },
