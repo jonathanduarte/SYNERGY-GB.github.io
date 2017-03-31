@@ -1,0 +1,110 @@
+{
+
+  "style" : {
+	
+	"sectionTitle" : {
+		"background_color": "#F89004",
+		"font_size":"20px",
+		"font_color":"yellow",
+		"text_align":"right"		
+	}
+	
+  },
+
+  "dashboard":{
+	"welcomeResource":"https://image.flaticon.com/icons/svg/263/263145.svg",
+	"login_icon":"",
+	"tutorial_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+	"location_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+	"contact_icon":"",
+	"dashboard_background":""
+	},
+
+   "login":{
+	"bank_logo":"https://image.flaticon.com/icons/svg/263/263145.svg",
+	"synergy_footer":"",
+	"login_background":"https://image.flaticon.com/icons/svg/263/263145.svg"
+	},
+
+   "location":{
+	"marker_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+	"brand_icon":"",
+	"user_icon":""
+ 	},
+
+   "contact":{
+	"address":{
+		"info":"contact_address_desc",
+		"resource":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"title":"contact_address"
+	},
+
+	"phone":{
+		"info":"contact_phone_desc",
+		"resource":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"title":"contact_phone_numbers",
+		"number":"+5805017529200"
+	},
+	"hours":{
+		"info":"contact_hours_desc",
+		"resource":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"title":"contact_hours"
+	},
+	"social1":{
+		"info":"contact_twitter_desc",
+		"resource":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"url":"https://twitter.com/SynergyGB"
+	},
+
+	"social2":{
+		"info":"contact_facebook_desc",
+		"resource":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"url":"https://www.facebook.com/SynergyGB/"
+	},
+	"social3":{
+		"info":"contact_youtube_desc",
+		"resource":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"url":"https://www.youtube.com/user/SynergyGB"
+	}
+    },
+
+   "side_menu":{
+	"summary_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+	"transfer_icon":"",
+	"p2p_icon":"",
+	"credits_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+	"requests_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+	"approvals_icon":"",
+	"about_icon":"",
+	"close_session_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+	"synergy_logo":""
+   },
+
+    "summary":{
+	"section_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+	"card_icon":"",
+	"checking_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+	"saving_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+	"credit_icon":"",
+	"default_icon":"https://image.flaticon.com/icons/svg/263/263145.svg"
+    },
+
+    "details":{
+		"banner":"https://image.flaticon.com/icons/svg/263/263145.svg"
+	},
+
+   "dates":{
+	"last_payment_marker":"",
+	"next_payment_marker":""
+   },
+
+   "transfers":{
+        "origin_account_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+	"transfer_progress_1":"https://image.flaticon.com/icons/svg/263/263145.svg",
+	"transfer_progress_2":"",
+	"transfer_progress_3":"https://image.flaticon.com/icons/svg/263/263145.svg",
+	"transfer_progress_4":"",
+	"transfer_progress_5":"https://image.flaticon.com/icons/svg/263/263145.svg"
+   }
+}
+
