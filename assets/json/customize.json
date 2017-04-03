@@ -17,10 +17,10 @@ permalink: /assets/json/customize.json
 
   "dashboard":{
 	"welcomeResource":"http://blog.synergy-gb.com/assets/img/mercantil/Logos/componente-05.png",
-	"login_icon":"http://blog.synergy-gb.com/assets/img/Iconos/componente-33.svg",
-	"tutorial_icon":"http://blog.synergy-gb.com/assets/img/Iconos/componente-34.svg",
-	"location_icon":"http://blog.synergy-gb.com/assets/img/Iconos/componente-35.svg",
-	"contact_icon":"http://blog.synergy-gb.com/assets/img/Iconos/componente-36.svg",
+	"login_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-33.svg",
+	"tutorial_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-34.svg",
+	"location_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-35.svg",
+	"contact_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-36.svg",
 	"dashboard_background":"http://blog.synergy-gb.com/assets/img/mercantil/BG/componente-02.png"
 	},
 
