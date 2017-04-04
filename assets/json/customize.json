@@ -73,24 +73,24 @@ permalink: /assets/json/customize.json
     },
 
    "side_menu":{
-	"summary_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-16.svg",
-	"transfer_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-17.svg",
-	"p2p_icon":"",
-	"credits_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-	"requests_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-	"approvals_icon":"",
-	"about_icon":"",
-	"close_session_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+	"summary_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-25.svg",
+	"transfer_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-16.svg",
+	"p2p_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-22.svg",
+	"credits_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-26.svg",
+	"requests_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-19.svg",
+	"approvals_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-20.svg",
+	"about_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-23.svg",
+	"close_session_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-24.svg",
 	"synergy_logo":""
    },
 
     "summary":{
 	"section_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-	"card_icon":"",
+	"card_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-25.svg",
 	"checking_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-	"saving_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-	"credit_icon":"",
-	"default_icon":"https://image.flaticon.com/icons/svg/263/263145.svg"
+	"saving_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-17.svg",
+	"credit_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-25.svg",
+	"default_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-17.svg"
     },
 
     "details":{
