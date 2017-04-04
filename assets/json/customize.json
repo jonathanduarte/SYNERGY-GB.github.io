@@ -9,7 +9,7 @@ permalink: /assets/json/customize.json
 	"sectionTitle" : {
 		"background_color": "#004e9b",
 		"font_size":"20px",
-		"font_color":"black",
+		"font_color":"white",
 		"text_align":"center"		
 	}
 	
