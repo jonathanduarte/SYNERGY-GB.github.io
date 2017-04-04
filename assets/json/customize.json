@@ -39,35 +39,35 @@ permalink: /assets/json/customize.json
    "contact":{
 	"address":{
 		"info":"contact_address_desc",
-		"resource":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"resource":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-42.svg",
 		"title":"contact_address"
 	},
 
 	"phone":{
 		"info":"contact_phone_desc",
-		"resource":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"resource":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-43.svg",
 		"title":"contact_phone_numbers",
 		"number":"+5805017529200"
 	},
 	"hours":{
 		"info":"contact_hours_desc",
-		"resource":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"resource":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-44.svg",
 		"title":"contact_hours"
 	},
 	"social1":{
 		"info":"contact_twitter_desc",
-		"resource":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"resource":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-45.svg",
 		"url":"https://twitter.com/SynergyGB"
 	},
 
 	"social2":{
 		"info":"contact_facebook_desc",
-		"resource":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"resource":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-46.svg",
 		"url":"https://www.facebook.com/SynergyGB/"
 	},
 	"social3":{
 		"info":"contact_youtube_desc",
-		"resource":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"resource":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-47.svg",
 		"url":"https://www.youtube.com/user/SynergyGB"
 	}
     },
