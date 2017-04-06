@@ -21,7 +21,7 @@ permalink: /assets/json/customize_test.json
 	"tutorial_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
 	"location_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
 	"contact_icon":"",
-	"dashboard_background":""
+	"dashboard_background":"http://blog.synergy-gb.com/assets/img/mercantil/BG/componente-02.png"
 	},
 
    "login":{
