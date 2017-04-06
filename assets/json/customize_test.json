@@ -9,26 +9,26 @@ permalink: /assets/json/customize_test.json
 	"default_background" : "",
 	
 	"sectionTitle" : {
-		"background_color": "#F89004",
+		"background_color": "#142E53",
 		"font_size":"20px",
-		"font_color":"yellow",
-		"text_align":"right"		
+		"font_color":"white",
+		"text_align":"center"		
 	},
 
 	"secondaryContainer" : {
-		"background_color": "#F89004",
+		"background_color": "#F2F2F2",
 
 		"instrument" : {
-			"account_font_size": "10px",
-			"account_font_color": "red",
-			"amount_font_size": "16px",
-			"amount_font_color": "blue"	
+			"account_font_size": "15px",
+			"account_font_color": "black",
+			"amount_font_size": "17px",
+			"amount_font_color": "587088"	
 		},
 		
 		"totalAmount" : {
-			"background_color": "blue",
+			"background_color": "#57C5D1",
 			"font_size":"30px",
-			"font_color":"black"
+			"font_color":"#F2F2F2"
 		}
 
 
