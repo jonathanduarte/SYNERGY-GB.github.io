@@ -6,6 +6,8 @@ permalink: /assets/json/customize_test.json
 
   "style" : {
 	
+	"default_background" : "",
+	
 	"sectionTitle" : {
 		"background_color": "#F89004",
 		"font_size":"20px",
@@ -21,6 +23,12 @@ permalink: /assets/json/customize_test.json
 			"account_font_color": "red",
 			"amount_font_size": "16px",
 			"amount_font_color": "blue"	
+		},
+		
+		"totalAmount" : {
+			"background_color": "blue",
+			"font_size":"30px",
+			"font_color":"black"
 		}
 
 
