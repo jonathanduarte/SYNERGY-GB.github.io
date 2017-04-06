@@ -12,6 +12,21 @@ permalink: /assets/json/customize_test.json
 		"font_color":"yellow",
 		"text_align":"right"		
 	}
+
+	"secondaryContainer"{
+		"background_color": "#F89004",
+		"font_size":"20px",
+		"font_color":"yellow"
+
+		"instrument"{
+			"account_font_size": "10px",
+			"account_font_color": "red",
+			"amount_font_size": "16px",
+			"amount_font_color": "blue"	
+		}
+
+
+	}
 	
   },
 
