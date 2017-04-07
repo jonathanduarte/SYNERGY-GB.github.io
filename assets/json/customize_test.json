@@ -6,6 +6,12 @@ permalink: /assets/json/customize_test.json
 
   "style" : {
 
+	"appHeader" : {
+		"app_header_color": "gold",
+		"app_header_font_size": "18px",
+		"app_header_font_color" : "silver"
+	},
+
 	"button" : {
 		"default_button_color" : "yellow",
 		"default_button_text_color" : "lime",
