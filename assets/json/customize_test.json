@@ -5,6 +5,12 @@ permalink: /assets/json/customize_test.json
 {
 
   "style" : {
+
+	"button" : {
+		"default_button_color" : "yellow",
+		"default_button_text_color" : "lime",
+		"default_button_text_size" : "10px"
+	},
 	
 	"default_background" : "",
 	
