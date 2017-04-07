@@ -32,7 +32,7 @@ permalink: /assets/json/customize_test.json
 		"background_color": "#F2F2F2",
 
 		"instrument" : {
-			"account_font_size": "15px",
+			"account_font_size": "9px",
 			"account_font_color": "black",
 			"amount_font_size": "20px",
 			"amount_font_color": "lime"	
