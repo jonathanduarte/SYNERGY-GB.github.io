@@ -16,9 +16,10 @@ permalink: /assets/json/customize_test.json
 	
 	"sectionTitle" : {
 		"background_color": "#142E53",
-		"font_size":"20px",
+		"font_size":"17px",
 		"font_color":"white",
-		"text_align":"center"		
+		"text_align":"center",
+		"font_weight": "bold"		
 	},
 
 	"secondaryContainer" : {
