@@ -34,13 +34,13 @@ permalink: /assets/json/customize_test.json
 		"instrument" : {
 			"account_font_size": "15px",
 			"account_font_color": "black",
-			"amount_font_size": "17px",
+			"amount_font_size": "20px",
 			"amount_font_color": "lime"	
 		},
 		
 		"totalAmount" : {
 			"background_color": "#57C5D1",
-			"font_size":"30px",
+			"font_size":"20px",
 			"font_color":"#F2F2F2"
 		}
 
