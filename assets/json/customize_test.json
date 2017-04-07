@@ -35,7 +35,7 @@ permalink: /assets/json/customize_test.json
 			"account_font_size": "15px",
 			"account_font_color": "black",
 			"amount_font_size": "17px",
-			"amount_font_color": "587088"	
+			"amount_font_color": "lime"	
 		},
 		
 		"totalAmount" : {
