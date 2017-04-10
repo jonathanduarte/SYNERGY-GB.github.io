@@ -53,13 +53,6 @@ permalink: /assets/json/customize_test.json
 
 
 	},
-
-	"sideMenu" : {
-		"font_size":"17px",
-		"font_color":"purple",
-		"text_align":"center",
-		"font_weight": "bold"	
-	}
 	
   },
 
