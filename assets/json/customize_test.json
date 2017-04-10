@@ -22,7 +22,7 @@ permalink: /assets/json/customize_test.json
 
 	"welcomeMessage" : {
 		"font_size":"15px",
-		"font_color":"red",
+		"font_color":"red"
 	},
 	
 	"sectionTitle" : {
