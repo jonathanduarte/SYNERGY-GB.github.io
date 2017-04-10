@@ -37,9 +37,9 @@ permalink: /assets/json/customize_test.json
 		"background_color": "#F2F2F2",
 
 		"instrument" : {
-			"account_font_size": "9px",
-			"account_font_color": "black",
-			"amount_font_size": "20px",
+			"account_font_size": "15px",
+			"account_font_color": "#142E53",
+			"amount_font_size": "17px",
 			"amount_font_color": "lime"	
 		},
 		
@@ -52,9 +52,9 @@ permalink: /assets/json/customize_test.json
 	},
 
 	"sideMenu" : {
-		"font_size":"14px",
+		"font_size":"16px",
 		"font_color":"#142E53",
-		"text_align":"right",
+		"text_align":"left",
 		"font_weight": ""	
 	}
 	
