@@ -23,8 +23,6 @@ permalink: /assets/json/customize_test.json
 	"welcomeMessage" : {
 		"font_size":"12px",
 		"font_color":"red",
-		"text_align":"left",
-		"font_weight": "bold"
 	},
 	
 	"sectionTitle" : {
@@ -52,6 +50,13 @@ permalink: /assets/json/customize_test.json
 		}
 
 
+	},
+
+	"sideMenu" : {
+		"font_size":"17px",
+		"font_color":"purple",
+		"text_align":"center",
+		"font_weight": "bold"	
 	}
 	
   },
