@@ -19,6 +19,13 @@ permalink: /assets/json/customize_test.json
 	},
 	
 	"default_background" : "",
+
+	"welcomeMessage" : {
+		"font_size":"12px",
+		"font_color":"red",
+		"text_align":"left",
+		"font_weight": "bold"
+	},
 	
 	"sectionTitle" : {
 		"background_color": "#142E53",
