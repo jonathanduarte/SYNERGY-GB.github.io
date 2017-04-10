@@ -21,10 +21,8 @@ permalink: /assets/json/customize_test.json
 	"default_background" : "",
 
 	"welcomeMessage" : {
-		"font_size":"17px",
-		"font_color":"white",
-		"text_align":"center",
-		"font_weight": "bold"
+		"font_size":"15px",
+		"font_color":"red",
 	},
 	
 	"sectionTitle" : {
@@ -54,10 +52,10 @@ permalink: /assets/json/customize_test.json
 	},
 
 	"sideMenu" : {
-		"font_size":"17px",
-		"font_color":"white",
-		"text_align":"center",
-		"font_weight": "bold"	
+		"font_size":"14px",
+		"font_color":"#142E53",
+		"text_align":"right",
+		"font_weight": ""	
 	}
 	
   },
