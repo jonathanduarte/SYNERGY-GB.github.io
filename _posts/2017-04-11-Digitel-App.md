@@ -21,8 +21,6 @@ lead_text: >-
   en hacerle la vida más fácil al cliente, combinando acceso a información
   importante así como operaciones transaccionales como la recarga.
 ---
-## A New Post
-
 
 El App de **Digitel** es la forma más simple de manejar la cuenta de un cliente. Disponible para líneas Pospago y Prepago, permite conocer el detalle del plan y datos de cuenta, consultar saldos disponibles y detalle de consumos, visualizar saldo a pagar, realizar recargas.
 
