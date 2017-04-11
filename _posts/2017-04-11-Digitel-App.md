@@ -2,7 +2,7 @@
 layout: inner
 date: '2017-04-11 11:44 -0400'
 categories: '- Anuncios'
-published: false
+published: true
 ref: Digitel App
 lang:
   - es
