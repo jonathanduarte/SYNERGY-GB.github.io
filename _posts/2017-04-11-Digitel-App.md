@@ -10,7 +10,7 @@ tags:
   - Digitel
   - Synergy-GB
   - App
-local_featured_image: Digitel_II.jpg
+local_featured_image: Digitel_II.png
 author: Geraldine Ganaim
 author_pic: Geraldine_Ganaim.png
 author_email: geraldine.ganaim@synergy-gb.com
