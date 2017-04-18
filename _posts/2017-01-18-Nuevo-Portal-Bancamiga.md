@@ -3,7 +3,7 @@ layout: inner
 date: '2017-01-18 13:38 -0400'
 categories: [Anuncios]
 published: true
-ref: Nuevo Portal en Bancamiga !
+ref: Bancamiga
 lang: es
 tags: [Synergy-GB, Bancamiga, Clientes, Banca+]
 local_featured_image: BancamigaWeb.png
