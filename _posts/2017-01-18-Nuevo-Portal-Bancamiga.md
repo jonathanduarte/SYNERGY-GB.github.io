@@ -5,7 +5,7 @@ categories: [Anuncios]
 published: true
 ref: Nuevo Portal en Bancamiga !
 lang: es
-tags: [Synergy-GB, Bancamiga, Lanzamiento, Banca+]
+tags: [Synergy-GB, Bancamiga, Clientes, Banca+]
 local_featured_image: BancamigaWeb.png
 author: José Rivera
 author_pic: Jose_Rivera.jpg
