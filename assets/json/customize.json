@@ -7,27 +7,27 @@ permalink: /assets/json/customize.json
   "style" : {
 	
 	"sectionTitle" : {
-		"background_color": "#F89004",
+		"background_color": "#004e9b",
 		"font_size":"20px",
-		"font_color":"yellow",
-		"text_align":"right"		
+		"font_color":"white",
+		"text_align":"center"		
 	}
 	
   },
 
   "dashboard":{
-	"welcomeResource":"https://image.flaticon.com/icons/svg/263/263145.svg",
-	"login_icon":"",
-	"tutorial_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-	"location_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-	"contact_icon":"",
-	"dashboard_background":""
+	"welcomeResource":"http://blog.synergy-gb.com/assets/img/mercantil/Logos/componente-05.png",
+	"login_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-33.svg",
+	"tutorial_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-34.svg",
+	"location_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-35.svg",
+	"contact_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-36.svg",
+	"dashboard_background":"http://blog.synergy-gb.com/assets/img/mercantil/BG/componente-02.png"
 	},
 
    "login":{
-	"bank_logo":"https://image.flaticon.com/icons/svg/263/263145.svg",
+	"bank_logo":"http://blog.synergy-gb.com/assets/img/mercantil/Logos/componente-05.png",
 	"synergy_footer":"",
-	"login_background":"https://image.flaticon.com/icons/svg/263/263145.svg"
+	"login_background":"http://blog.synergy-gb.com/assets/img/mercantil/BG/componente-02.png"
 	},
 
    "location":{
@@ -39,58 +39,58 @@ permalink: /assets/json/customize.json
    "contact":{
 	"address":{
 		"info":"contact_address_desc",
-		"resource":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"resource":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-42.svg",
 		"title":"contact_address"
 	},
 
 	"phone":{
 		"info":"contact_phone_desc",
-		"resource":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"resource":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-43.svg",
 		"title":"contact_phone_numbers",
 		"number":"+5805017529200"
 	},
 	"hours":{
 		"info":"contact_hours_desc",
-		"resource":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"resource":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-44.svg",
 		"title":"contact_hours"
 	},
 	"social1":{
 		"info":"contact_twitter_desc",
-		"resource":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"resource":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-45.svg",
 		"url":"https://twitter.com/SynergyGB"
 	},
 
 	"social2":{
 		"info":"contact_facebook_desc",
-		"resource":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"resource":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-46.svg",
 		"url":"https://www.facebook.com/SynergyGB/"
 	},
 	"social3":{
 		"info":"contact_youtube_desc",
-		"resource":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"resource":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-47.svg",
 		"url":"https://www.youtube.com/user/SynergyGB"
 	}
     },
 
    "side_menu":{
-	"summary_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-	"transfer_icon":"",
-	"p2p_icon":"",
-	"credits_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-	"requests_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-	"approvals_icon":"",
-	"about_icon":"",
-	"close_session_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+	"summary_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-25.svg",
+	"transfer_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-16.svg",
+	"p2p_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-22.svg",
+	"credits_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-26.svg",
+	"requests_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-19.svg",
+	"approvals_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-20.svg",
+	"about_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-23.svg",
+	"close_session_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-24.svg",
 	"synergy_logo":""
    },
 
     "summary":{
-	"section_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-	"card_icon":"",
-	"checking_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-	"saving_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-	"credit_icon":"",
-	"default_icon":"https://image.flaticon.com/icons/svg/263/263145.svg"
+	"section_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-25.svg",
+	"card_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-25.svg",
+	"checking_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-25.svg",
+	"saving_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-17.svg",
+	"credit_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-26.svg",
+	"default_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-17.svg"
     },
 
     "details":{
@@ -104,11 +104,11 @@ permalink: /assets/json/customize.json
 
    "transfers":{
         "origin_account_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-	"transfer_progress_1":"https://image.flaticon.com/icons/svg/263/263145.svg",
-	"transfer_progress_2":"",
-	"transfer_progress_3":"https://image.flaticon.com/icons/svg/263/263145.svg",
-	"transfer_progress_4":"",
-	"transfer_progress_5":"https://image.flaticon.com/icons/svg/263/263145.svg"
+	"transfer_progress_1":"http://blog.synergy-gb.com/assets/img/mercantil/Otros/componente-08.svg",
+	"transfer_progress_2":"http://blog.synergy-gb.com/assets/img/mercantil/Otros/componente-09.svg",
+	"transfer_progress_3":"http://blog.synergy-gb.com/assets/img/mercantil/Otros/componente-10.svg",
+	"transfer_progress_4":"http://blog.synergy-gb.com/assets/img/mercantil/Otros/componente-11.svg",
+	"transfer_progress_5":"http://blog.synergy-gb.com/assets/img/mercantil/Otros/componente-12.svg"
    }
 }
 
