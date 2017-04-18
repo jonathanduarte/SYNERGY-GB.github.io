@@ -61,12 +61,12 @@ permalink: /assets/json/customize_test.json
   },
 
   "dashboard":{
-	"welcomeResource":"https://image.flaticon.com/icons/svg/263/263145.svg",
-	"login_icon":"http://blog.synergy-gb.com/assets/img/login-icon.svg",
-	"tutorial_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-	"location_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-	"contact_icon":"",
-	"dashboard_background":"http://blog.synergy-gb.com/assets/img/mercantil/BG/componente-04.png"
+	"welcomeResource":"http://blog.synergy-gb.com/assets/img/mercantil/Logos/componente-05.png",
+	"login_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-33.svg",
+	"tutorial_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-34.svg",
+	"location_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-35.svg",
+	"contact_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-36.svg",
+	"dashboard_background":"http://blog.synergy-gb.com/assets/img/mercantil/BG/componente-02.png"
 	},
 
    "login":{
