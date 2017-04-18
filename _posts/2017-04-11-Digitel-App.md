@@ -1,15 +1,11 @@
 ---
 layout: inner
 date: '2017-04-11 11:44 -0400'
-categories: '- Anuncios'
+categories: [Anuncios]
+tags: [Synergy-GB]
 published: true
 ref: Digitel App
-lang:
-  - es
-tags:
-  - Digitel
-  - Synergy-GB
-  - App
+lang: es
 local_featured_image: Digitel_II.png
 author: Geraldine Ganaim
 author_pic: Geraldine_Ganaim.png
