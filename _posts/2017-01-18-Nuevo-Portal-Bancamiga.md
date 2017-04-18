@@ -1,16 +1,11 @@
 ---
 layout: inner
 date: '2017-01-18 13:38 -0400'
-categories: '- Anuncios'
+categories: [Anuncios]
 published: true
 ref: Nuevo Portal en Bancamiga !
-lang:
-  - es
-tags:
-  - Synergy-GB
-  - Bancamiga
-  - Lanzamiento
-  - Banca+
+lang: es
+tags: [Synergy-GB, Bancamiga, Lanzamiento, Banca+]
 local_featured_image: BancamigaWeb.png
 author: José Rivera
 author_pic: Jose_Rivera.jpg
