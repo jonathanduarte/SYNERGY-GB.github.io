@@ -7,54 +7,54 @@ permalink: /assets/json/customize_test.json
   "style" : {
 
 	"appHeader" : {
-		"app_header_color": "gold",
-		"app_header_font_size": "18px",
-		"app_header_font_color" : "silver"
+		"app_header_color": "",
+		"app_header_font_size": "",
+		"app_header_font_color" : ""
 	},
 
 	"button" : {
-		"default_button_color" : "yellow",
-		"default_button_text_color" : "lime",
-		"default_button_text_size" : "10px"
+		"default_button_color" : "",
+		"default_button_text_color" : "",
+		"default_button_text_size" : ""
 	},
 	
 	"default_background" : "",
 
 	"welcomeMessage" : {
-		"font_size":"15px",
-		"font_color":"red"
+		"font_size":"",
+		"font_color":""
 	},
 	
 	"sectionTitle" : {
-		"background_color": "#142E53",
-		"font_size":"17px",
-		"font_color":"white",
-		"text_align":"center",
-		"font_weight": "bold"		
+		"background_color": "",
+		"font_size":"",
+		"font_color":"",
+		"text_align":"",
+		"font_weight": ""		
 	},
 
 	"secondaryContainer" : {
-		"background_color": "#F2F2F2",
+		"background_color": "",
 
 		"instrument" : {
-			"account_font_size": "15px",
-			"account_font_color": "#142E53",
-			"amount_font_size": "17px",
-			"amount_font_color": "lime"	
+			"account_font_size": "",
+			"account_font_color": "",
+			"amount_font_size": "",
+			"amount_font_color": ""	
 		},
 		
 		"totalAmount" : {
-			"background_color": "#57C5D1",
-			"font_size":"20px",
-			"font_color":"#F2F2F2"
+			"background_color": "",
+			"font_size":"",
+			"font_color":""
 		}
 
 	},
 
 	"sideMenu" : {
-		"font_size":"16px",
-		"font_color":"#142E53",
-		"text_align":"left",
+		"font_size":"",
+		"font_color":"",
+		"text_align":"",
 		"font_weight": ""	
 	}
 	
