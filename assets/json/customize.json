@@ -13,7 +13,7 @@ permalink: /assets/json/customize.json
 	},
 
 	"button" : {
-		"default_button_color" : "#ff5800",
+		"default_button_color" : "",
 		"default_button_text_color" : "",
 		"default_button_text_size" : ""
 	},
@@ -26,7 +26,7 @@ permalink: /assets/json/customize.json
 	},
 	
 	"sectionTitle" : {
-		"background_color": "#004e9b",
+		"background_color": "",
 		"font_size":"",
 		"font_color":"",
 		"text_align":"",
@@ -44,7 +44,7 @@ permalink: /assets/json/customize.json
 		},
 		
 		"totalAmount" : {
-			"background_color": "#ff5800",
+			"background_color": "",
 			"font_size":"",
 			"font_color":""
 		}
@@ -61,16 +61,16 @@ permalink: /assets/json/customize.json
   },
 
   "dashboard":{
-	"welcomeResource":"http://blog.synergy-gb.com/assets/img/mercantil/Logos/componente-05.png",
-	"login_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-33.svg",
-	"tutorial_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-34.svg",
-	"location_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-35.svg",
-	"contact_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-36.svg",
-	"dashboard_background":"http://blog.synergy-gb.com/assets/img/mercantil/BG/componente-01.png"
+	"welcomeResource":"",
+	"login_icon":"",
+	"tutorial_icon":"",
+	"location_icon":"",
+	"contact_icon":"",
+	"dashboard_background":""
 	},
 
    "login":{
-	"bank_logo":"http://blog.synergy-gb.com/assets/img/mercantil/Logos/componente-05.png",
+	"bank_logo":"",
 	"synergy_footer":"",
 	"login_background":""
 	},
@@ -118,24 +118,24 @@ permalink: /assets/json/customize.json
     },
 
    "side_menu":{
-	"summary_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-16.svg",
-	"transfer_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-17.svg",
-	"p2p_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-18.svg",
-	"credits_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-19.svg",
-	"requests_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-20.svg",
-	"approvals_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-21.svg",
-	"about_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-23.svg",
-	"close_session_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-24.svg",
+	"summary_icon":"",
+	"transfer_icon":"",
+	"p2p_icon":"",
+	"credits_icon":"",
+	"requests_icon":"",
+	"approvals_icon":"",
+	"about_icon":"",
+	"close_session_icon":"",
 	"synergy_logo":""
    },
 
     "summary":{
-	"section_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-25.avg",
-	"card_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-26.svg",
-	"checking_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-27.svg",
-	"saving_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-25.svg",
-	"credit_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-26.svg",
-	"default_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-27.svg"
+	"section_icon":"",
+	"card_icon":"",
+	"checking_icon":"",
+	"saving_icon":"",
+	"credit_icon":"",
+	"default_icon":""
     },
 
     "details":{
@@ -148,12 +148,12 @@ permalink: /assets/json/customize.json
    },
 
    "transfers":{
-    "origin_account_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-	"transfer_progress_1":"http://blog.synergy-gb.com/assets/img/mercantil/Otros/componente-08.svg",
-	"transfer_progress_2":"http://blog.synergy-gb.com/assets/img/mercantil/Otros/componente-09.svg",
-	"transfer_progress_3":"http://blog.synergy-gb.com/assets/img/mercantil/Otros/componente-10.svg",
-	"transfer_progress_4":"http://blog.synergy-gb.com/assets/img/mercantil/Otros/componente-11.svg",
-	"transfer_progress_5":"http://blog.synergy-gb.com/assets/img/mercantil/Otros/componente-12.svg"
+        "origin_account_icon":"",
+	"transfer_progress_1":"",
+	"transfer_progress_2":"",
+	"transfer_progress_3":"",
+	"transfer_progress_4":"",
+	"transfer_progress_5":""
    }
 }
 

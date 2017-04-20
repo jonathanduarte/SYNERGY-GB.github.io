@@ -72,7 +72,7 @@ permalink: /assets/json/customize_test.json
    "login":{
 	"bank_logo":"http://blog.synergy-gb.com/assets/img/mercantil/Logos/componente-05.png",
 	"synergy_footer":"",
-	"login_background":""
+	"login_background":"http://blog.synergy-gb.com/assets/img/mercantil/BG/componente-01.png"
 	},
 
    "location":{
