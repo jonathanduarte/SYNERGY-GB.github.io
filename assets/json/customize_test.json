@@ -149,11 +149,11 @@ permalink: /assets/json/customize_test.json
 
    "transfers":{
     "origin_account_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-	"transfer_progress_1":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-08.svg",
-	"transfer_progress_2":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-09.svg",
-	"transfer_progress_3":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-10.svg",
-	"transfer_progress_4":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-11.svg",
-	"transfer_progress_5":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-12.svg"
+	"transfer_progress_1":"http://blog.synergy-gb.com/assets/img/mercantil/Otros/componente-08.svg",
+	"transfer_progress_2":"http://blog.synergy-gb.com/assets/img/mercantil/Otros/componente-09.svg",
+	"transfer_progress_3":"http://blog.synergy-gb.com/assets/img/mercantil/Otros/componente-10.svg",
+	"transfer_progress_4":"http://blog.synergy-gb.com/assets/img/mercantil/Otros/componente-11.svg",
+	"transfer_progress_5":"http://blog.synergy-gb.com/assets/img/mercantil/Otros/componente-12.svg"
    }
 }
 
