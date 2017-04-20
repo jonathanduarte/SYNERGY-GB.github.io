@@ -66,13 +66,13 @@ permalink: /assets/json/customize_test.json
 	"tutorial_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-34.svg",
 	"location_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-35.svg",
 	"contact_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-36.svg",
-	"dashboard_background":"http://blog.synergy-gb.com/assets/img/mercantil/BG/componente-01.png"
+	"dashboard_background":"http://blog.synergy-gb.com/assets/img/mercantil/BG/componente-03.png"
 	},
 
    "login":{
 	"bank_logo":"http://blog.synergy-gb.com/assets/img/mercantil/Logos/componente-05.png",
 	"synergy_footer":"",
-	"login_background":"http://blog.synergy-gb.com/assets/img/mercantil/BG/componente-01.png"
+	"login_background":"http://blog.synergy-gb.com/assets/img/mercantil/BG/componente-02.png"
 	},
 
    "location":{
