@@ -13,7 +13,7 @@ permalink: /assets/json/customize_test.json
 	},
 
 	"button" : {
-		"default_button_color" : "",
+		"default_button_color" : "#ff5800",
 		"default_button_text_color" : "",
 		"default_button_text_size" : ""
 	},
@@ -26,7 +26,7 @@ permalink: /assets/json/customize_test.json
 	},
 	
 	"sectionTitle" : {
-		"background_color": "",
+		"background_color": "#004e9b",
 		"font_size":"",
 		"font_color":"",
 		"text_align":"",
