@@ -118,24 +118,24 @@ permalink: /assets/json/customize_test.json
     },
 
    "side_menu":{
-	"summary_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-16.png",
-	"transfer_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-17.png",
-	"p2p_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-18.png",
-	"credits_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-19.png",
-	"requests_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-20.png",
-	"approvals_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-21.png",
-	"about_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-23.png",
-	"close_session_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-24png",
+	"summary_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-16.svg",
+	"transfer_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-17.svg",
+	"p2p_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-18.svg",
+	"credits_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-19.svg",
+	"requests_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-20.svg",
+	"approvals_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-21.svg",
+	"about_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-23.svg",
+	"close_session_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-24.svg",
 	"synergy_logo":""
    },
 
     "summary":{
-	"section_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-25.png",
-	"card_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-26.png",
-	"checking_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-27.png",
-	"saving_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-25.png",
-	"credit_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-26.png",
-	"default_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-27.png"
+	"section_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-25.avg",
+	"card_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-26.svg",
+	"checking_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-27.svg",
+	"saving_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-25.svg",
+	"credit_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-26.svg",
+	"default_icon":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-27.svg"
     },
 
     "details":{
@@ -149,11 +149,11 @@ permalink: /assets/json/customize_test.json
 
    "transfers":{
     "origin_account_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-	"transfer_progress_1":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-08.png",
-	"transfer_progress_2":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-09.png",
-	"transfer_progress_3":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-10.png",
-	"transfer_progress_4":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-11.png",
-	"transfer_progress_5":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-12.png"
+	"transfer_progress_1":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-08.svg",
+	"transfer_progress_2":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-09.svg",
+	"transfer_progress_3":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-10.svg",
+	"transfer_progress_4":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-11.svg",
+	"transfer_progress_5":"http://blog.synergy-gb.com/assets/img/mercantil/Iconos/componente-12.svg"
    }
 }
 
