@@ -29,8 +29,8 @@ permalink: /assets/json/customize_test.json
 		"background_color": "#004e9b",
 		"font_size":"",
 		"font_color":"",
-		"text_align":"",
-		"font_weight": ""		
+		"text_align":"center",
+		"font_weight": "bold"		
 	},
 
 	"secondaryContainer" : {
