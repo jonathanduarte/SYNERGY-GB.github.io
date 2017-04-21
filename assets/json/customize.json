@@ -7,53 +7,53 @@ permalink: /assets/json/customize.json
   "style" : {
 
 	"appHeader" : {
-		"app_header_color": "0CB603",
-		"app_header_font_size": "11px",
-		"app_header_font_color" : "777100"
+		"app_header_color": "",
+		"app_header_font_size": "",
+		"app_header_font_color" : ""
 	},
 
 	"button" : {
-		"default_button_color" : "044A00",
-		"default_button_text_color" : "777100",
-		"default_button_text_size" : "11px"
+		"default_button_color" : "",
+		"default_button_text_color" : "",
+		"default_button_text_size" : ""
 	},
 	
 	"default_background" : "",
 
 	"welcomeMessage" : {
-		"font_size":"8px",
-		"font_color":"777100"
+		"font_size":"",
+		"font_color":""
 	},
 	
 	"sectionTitle" : {
-		"background_color": "0CB603",
-		"font_size":"11px",
-		"font_color":"777100",
+		"background_color": "",
+		"font_size":"",
+		"font_color":"",
 		"text_align":"",
 		"font_weight": ""		
 	},
 
 	"secondaryContainer" : {
-		"background_color": "75E36F",
+		"background_color": "",
 
 		"instrument" : {
-			"account_font_size": "11px",
-			"account_font_color": "777100",
+			"account_font_size": "",
+			"account_font_color": "",
 			"amount_font_size": "",
-			"amount_font_color": "777100"	
+			"amount_font_color": ""	
 		},
 		
 		"totalAmount" : {
 			"background_color": "",
-			"font_size":"11px",
-			"font_color":"777100"
+			"font_size":"",
+			"font_color":""
 		}
 
 	},
 
 	"sideMenu" : {
-			"font_size":"11px",
-			"font_color":"777100",
+			"font_size":"",
+			"font_color":"",
 			"text_align":"",
 			"font_weight": ""	
 	}
@@ -61,85 +61,85 @@ permalink: /assets/json/customize.json
   },
 
   "dashboard":{
-		"welcomeResource":"https://image.flaticon.com/icons/svg/263/263145.svg",
-		"login_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-		"tutorial_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"welcomeResource":"",
+		"login_icon":"",
+		"tutorial_icon":"",
 		"location_icon":"",
-		"contact_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-		"dashboard_background":"https://image.flaticon.com/icons/svg/263/263145.svg"
+		"contact_icon":"",
+		"dashboard_background":""
 	},
 
    "login":{
-		"bank_logo":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"bank_logo":"",
 		"synergy_footer":"",
 		"login_background":""
 	},
 
    "location":{
 		"marker_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-		"brand_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"brand_icon":"",
 		"user_icon":""
  	},
 
    "contact":{
 		"address":{
 			"info":"contact_address_desc",
-			"resource":"https://image.flaticon.com/icons/svg/263/263145.svg",
+			"resource":"",
 			"title":"contact_address"
 		},
 
 		"phone":{
 			"info":"contact_phone_desc",
-			"resource":"https://image.flaticon.com/icons/svg/263/263145.svg",
+			"resource":"",
 			"title":"contact_phone_numbers",
 			"number":"+5805017529200"
 		},
 		"hours":{
 			"info":"contact_hours_desc",
-			"resource":"https://image.flaticon.com/icons/svg/263/263145.svg",
+			"resource":"",
 			"title":"contact_hours"
 		},
 		"social1":{
 			"info":"contact_twitter_desc",
-			"resource":"https://image.flaticon.com/icons/svg/263/263145.svg",
+			"resource":"",
 			"url":"https://twitter.com/SynergyGB"
 		},
 
 		"social2":{
 			"info":"contact_facebook_desc",
-			"resource":"https://image.flaticon.com/icons/svg/263/263145.svg",
+			"resource":"",
 			"url":"https://www.facebook.com/SynergyGB/"
 		},
 		"social3":{
 			"info":"contact_youtube_desc",
-			"resource":"https://image.flaticon.com/icons/svg/263/263145.svg",
+			"resource":"",
 			"url":"https://www.youtube.com/user/SynergyGB"
 		}
     },
 
    "side_menu":{
-		"summary_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-		"transfer_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-		"p2p_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"summary_icon":"",
+		"transfer_icon":"",
+		"p2p_icon":"",
 		"credits_icon":"",
-		"requests_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"requests_icon":"",
 		"approvals_icon":"",
-		"about_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"about_icon":"",
 		"close_session_icon":"",
-		"synergy_logo":"https://image.flaticon.com/icons/svg/263/263145.svg"
+		"synergy_logo":""
    },
 
     "summary":{
-		"section_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"section_icon":"",
 		"card_icon":"",
-		"checking_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"checking_icon":"",
 		"saving_icon":"",
-		"credit_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-		"default_icon":"https://image.flaticon.com/icons/svg/263/263145.svg"
+		"credit_icon":"",
+		"default_icon":""
     },
 
     "details":{
-		"banner":"https://image.flaticon.com/icons/svg/263/263145.svg"
+		"banner":""
 	},
 
    "dates":{
@@ -149,11 +149,11 @@ permalink: /assets/json/customize.json
 
    "transfers":{
         "origin_account_icon":"",
-		"transfer_progress_1":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"transfer_progress_1":"",
 		"transfer_progress_2":"",
-		"transfer_progress_3":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"transfer_progress_3":"",
 		"transfer_progress_4":"",
-		"transfer_progress_5":"https://image.flaticon.com/icons/svg/263/263145.svg"
+		"transfer_progress_5":""
    }
 }
 
