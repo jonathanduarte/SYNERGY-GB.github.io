@@ -7,14 +7,14 @@ permalink: /assets/json/customize_1.json
   "style" : {
 
 	"appHeader" : {
-		"app_header_color": "0CB603",
+		"app_header_color": "#0CB603",
 		"app_header_font_size": "11px",
-		"app_header_font_color" : "777100"
+		"app_header_font_color" : "#777100"
 	},
 
 	"button" : {
-		"default_button_color" : "044A00",
-		"default_button_text_color" : "777100",
+		"default_button_color" : "#044A00",
+		"default_button_text_color" : "#777100",
 		"default_button_text_size" : "11px"
 	},
 	
@@ -22,38 +22,38 @@ permalink: /assets/json/customize_1.json
 
 	"welcomeMessage" : {
 		"font_size":"8px",
-		"font_color":"777100"
+		"font_color":"#777100"
 	},
 	
 	"sectionTitle" : {
-		"background_color": "0CB603",
+		"background_color": "#0CB603",
 		"font_size":"11px",
-		"font_color":"777100",
+		"font_color":"#777100",
 		"text_align":"",
 		"font_weight": ""		
 	},
 
 	"secondaryContainer" : {
-		"background_color": "75E36F",
+		"background_color": "#75E36F",
 
 		"instrument" : {
 			"account_font_size": "11px",
-			"account_font_color": "777100",
+			"account_font_color": "#777100",
 			"amount_font_size": "",
-			"amount_font_color": "777100"	
+			"amount_font_color": "#777100"	
 		},
 		
 		"totalAmount" : {
 			"background_color": "",
 			"font_size":"11px",
-			"font_color":"777100"
+			"font_color":"#777100"
 		}
 
 	},
 
 	"sideMenu" : {
 			"font_size":"11px",
-			"font_color":"777100",
+			"font_color":"#777100",
 			"text_align":"",
 			"font_weight": ""	
 	}
