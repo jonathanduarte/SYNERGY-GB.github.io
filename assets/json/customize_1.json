@@ -34,7 +34,7 @@ permalink: /assets/json/customize_1.json
 	},
 
 	"secondaryContainer" : {
-		"background_color": "#75E36F",
+		"background_color": "",
 
 		"instrument" : {
 			"account_font_size": "11px",
@@ -66,11 +66,11 @@ permalink: /assets/json/customize_1.json
 		"tutorial_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
 		"location_icon":"",
 		"contact_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-		"dashboard_background":"https://image.flaticon.com/icons/svg/263/263145.svg"
+		"dashboard_background":""
 	},
 
    "login":{
-		"bank_logo":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"bank_logo":"",
 		"synergy_footer":"",
 		"login_background":""
 	},
