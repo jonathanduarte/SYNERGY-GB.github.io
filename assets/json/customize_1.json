@@ -6,6 +6,14 @@ permalink: /assets/json/customize_1.json
 
   "style" : {
 
+	"dashboard":{
+		"title_font_color":"#0CB603",
+		"title_font_size":"20px",
+		"subtitle_font_color":"#0CB603",
+		"subtitle_font_size":"20px",
+		
+	},
+
 	"appHeader" : {
 		"app_header_color": "#0CB603",
 		"app_header_font_size": "11px",
