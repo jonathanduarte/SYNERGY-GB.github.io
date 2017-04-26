@@ -5,7 +5,15 @@ permalink: /assets/json/customize.json
 {
 
   "style" : {
-
+	
+	"common": {
+		"common_font_size": "",
+		"common_font_color": "",
+		"common_font_weight": "",
+		"default_color": "red",
+		"default_background" : ""
+	},	
+	
 	"appHeader" : {
 		"app_header_color": "",
 		"app_header_font_size": "",
@@ -16,13 +24,6 @@ permalink: /assets/json/customize.json
 		"default_button_color" : "",
 		"default_button_text_color" : "",
 		"default_button_text_size" : ""
-	},
-	
-	"default_background" : "",
-
-	"welcomeMessage" : {
-		"font_size":"",
-		"font_color":""
 	},
 	
 	"sectionTitle" : {
@@ -45,11 +46,28 @@ permalink: /assets/json/customize.json
 		
 		"totalAmount" : {
 			"background_color": "",
-			"font_size":"",
+			"font_size":"11px",
 			"font_color":""
 		}
 
 	},
+	
+
+	"dashboard":{
+		"title_font_color":"",
+		"title_font_size":"",
+		"subtitle_font_color":"",
+		"subtitle_font_size":""
+		
+	},
+	
+
+	"welcomeMessage" : {
+		"font_size":"",
+		"font_color":""
+	},
+	
+
 
 	"sideMenu" : {
 			"font_size":"",
@@ -59,7 +77,6 @@ permalink: /assets/json/customize.json
 	}
 	
   },
-
   "dashboard":{
 		"welcomeResource":"",
 		"login_icon":"",
