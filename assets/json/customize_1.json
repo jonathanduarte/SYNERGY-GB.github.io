@@ -5,15 +5,15 @@ permalink: /assets/json/customize_1.json
 {
 
   "style" : {
-
-	"dashboard":{
-		"title_font_color":"#0CB603",
-		"title_font_size":"20px",
-		"subtitle_font_color":"#0CB603",
-		"subtitle_font_size":"20px"
-		
-	},
-
+	
+	"common": {
+		"common_font_size": "10px",
+		"common_font_color": "blue",
+		"common_font_weight": "bold",
+		"default_color": "red",
+		"default_background" : "https://image.flaticon.com/icons/svg/263/263145.svg"
+	},	
+	
 	"appHeader" : {
 		"app_header_color": "#0CB603",
 		"app_header_font_size": "11px",
@@ -24,13 +24,6 @@ permalink: /assets/json/customize_1.json
 		"default_button_color" : "#044A00",
 		"default_button_text_color" : "#777100",
 		"default_button_text_size" : "11px"
-	},
-	
-	"default_background" : "",
-
-	"welcomeMessage" : {
-		"font_size":"8px",
-		"font_color":"#777100"
 	},
 	
 	"sectionTitle" : {
@@ -58,6 +51,23 @@ permalink: /assets/json/customize_1.json
 		}
 
 	},
+	
+
+	"dashboard":{
+		"title_font_color":"#0CB603",
+		"title_font_size":"20px",
+		"subtitle_font_color":"#0CB603",
+		"subtitle_font_size":"20px"
+		
+	},
+	
+
+	"welcomeMessage" : {
+		"font_size":"8px",
+		"font_color":"#777100"
+	},
+	
+
 
 	"sideMenu" : {
 			"font_size":"11px",
