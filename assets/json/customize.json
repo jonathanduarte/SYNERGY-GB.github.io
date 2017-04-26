@@ -10,7 +10,7 @@ permalink: /assets/json/customize.json
 		"common_font_size": "",
 		"common_font_color": "",
 		"common_font_weight": "",
-		"default_color": "red",
+		"default_color": "",
 		"default_background" : ""
 	},	
 	
@@ -46,7 +46,7 @@ permalink: /assets/json/customize.json
 		
 		"totalAmount" : {
 			"background_color": "",
-			"font_size":"11px",
+			"font_size":"",
 			"font_color":""
 		}
 
