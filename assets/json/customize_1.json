@@ -11,6 +11,7 @@ permalink: /assets/json/customize_1.json
 		"common_font_color": "blue",
 		"common_font_weight": "bold",
 		"default_color": "red",
+		"default_color_2": "yellow",
 		"default_background" : ""
 	},	
 	
