@@ -22,33 +22,33 @@ permalink: /assets/json/customize_1.json
 	},
 
 	"button" : {
-		"default_button_color" : "#044A00",
-		"default_button_text_color" : "#777100",
-		"default_button_text_size" : "11px"
+		"default_button_color" : "red",
+		"default_button_text_color" : "white",
+		"default_button_text_size" : "14px"
 	},
 	
 	"sectionTitle" : {
-		"background_color": "#0CB603",
-		"font_size":"11px",
-		"font_color":"#777100",
-		"text_align":"",
-		"font_weight": ""		
+		"background_color": "yellow",
+		"font_size":"14px",
+		"font_color":"black",
+		"text_align":"center",
+		"font_weight": "bold"		
 	},
 
 	"secondaryContainer" : {
-		"background_color": "",
+		"background_color": "blue",
 
 		"instrument" : {
 			"account_font_size": "11px",
-			"account_font_color": "#777100",
-			"amount_font_size": "",
-			"amount_font_color": "#777100"	
+			"account_font_color": "white",
+			"amount_font_size": "13px",
+			"amount_font_color": "white"	
 		},
 		
 		"totalAmount" : {
 			"background_color": "",
-			"font_size":"11px",
-			"font_color":"#777100"
+			"font_size":"16px",
+			"font_color":"white"
 		}
 
 	},
@@ -85,7 +85,7 @@ permalink: /assets/json/customize_1.json
 		"tutorial_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
 		"location_icon":"",
 		"contact_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-		"dashboard_background":""
+		"dashboard_background":"http://blog.synergy-gb.com/assets/img/mercantil/BG/componente-04.png"
 	},
 
    "login":{
