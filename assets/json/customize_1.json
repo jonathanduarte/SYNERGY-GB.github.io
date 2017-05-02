@@ -28,7 +28,7 @@ permalink: /assets/json/customize_1.json
 	},
 	
 	"sectionTitle" : {
-		"background_color": "",
+		"background_color": "red",
 		"font_size":"",
 		"font_color":"",
 		"text_align":"",
