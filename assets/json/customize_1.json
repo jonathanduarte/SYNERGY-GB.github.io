@@ -7,72 +7,72 @@ permalink: /assets/json/customize_1.json
   "style" : {
 	
 	"common": {
-		"common_font_size": "10px",
-		"common_font_color": "blue",
-		"common_font_weight": "bold",
-		"default_color": "red",
-		"default_color_2": "purple",
+		"common_font_size": "",
+		"common_font_color": "",
+		"common_font_weight": "",
+		"default_color": "",
+		"default_color_2": "",
 		"default_background" : ""
 	},	
 	
 	"appHeader" : {
-		"app_header_color": "#0CB603",
-		"app_header_font_size": "11px",
-		"app_header_font_color" : "#777100"
+		"app_header_color": "",
+		"app_header_font_size": "",
+		"app_header_font_color" : ""
 	},
 
 	"button" : {
-		"default_button_color" : "red",
-		"default_button_text_color" : "white",
-		"default_button_text_size" : "14px"
+		"default_button_color" : "",
+		"default_button_text_color" : "",
+		"default_button_text_size" : ""
 	},
 	
 	"sectionTitle" : {
-		"background_color": "yellow",
-		"font_size":"14px",
-		"font_color":"black",
-		"text_align":"center",
-		"font_weight": "bold"		
+		"background_color": "",
+		"font_size":"",
+		"font_color":"",
+		"text_align":"",
+		"font_weight": ""		
 	},
 
 	"secondaryContainer" : {
-		"background_color": "blue",
+		"background_color": "",
 
 		"instrument" : {
-			"account_font_size": "11px",
-			"account_font_color": "white",
-			"amount_font_size": "13px",
-			"amount_font_color": "white"	
+			"account_font_size": "",
+			"account_font_color": "",
+			"amount_font_size": "",
+			"amount_font_color": ""	
 		},
 		
 		"totalAmount" : {
 			"background_color": "",
-			"font_size":"16px",
-			"font_color":"white"
+			"font_size":"",
+			"font_color":""
 		}
 
 	},
 	
 
 	"dashboard":{
-		"title_font_color":"#0CB603",
-		"title_font_size":"20px",
-		"subtitle_font_color":"#0CB603",
-		"subtitle_font_size":"20px"
+		"title_font_color":"",
+		"title_font_size":"",
+		"subtitle_font_color":"",
+		"subtitle_font_size":""
 		
 	},
 	
 
 	"welcomeMessage" : {
-		"font_size":"8px",
-		"font_color":"#777100"
+		"font_size":"",
+		"font_color":""
 	},
 	
 
 
 	"sideMenu" : {
-			"font_size":"11px",
-			"font_color":"#777100",
+			"font_size":"",
+			"font_color":"",
 			"text_align":"",
 			"font_weight": ""	
 	}
@@ -81,11 +81,11 @@ permalink: /assets/json/customize_1.json
 
   "dashboard":{
 		"welcomeResource":"",
-		"login_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-		"tutorial_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"login_icon":"",
+		"tutorial_icon":"",
 		"location_icon":"",
-		"contact_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-		"dashboard_background":"http://blog.synergy-gb.com/assets/img/mercantil/BG/componente-04.png"
+		"contact_icon":"",
+		"dashboard_background":""
 	},
 
    "login":{
@@ -95,8 +95,8 @@ permalink: /assets/json/customize_1.json
 	},
 
    "location":{
-		"marker_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-		"brand_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"marker_icon":"",
+		"brand_icon":"",
 		"user_icon":""
  	},
 
@@ -137,28 +137,28 @@ permalink: /assets/json/customize_1.json
     },
 
    "side_menu":{
-		"summary_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-		"transfer_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-		"p2p_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"summary_icon":"",
+		"transfer_icon":"",
+		"p2p_icon":"",
 		"credits_icon":"",
-		"requests_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"requests_icon":"",
 		"approvals_icon":"",
-		"about_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"about_icon":"",
 		"close_session_icon":"",
-		"synergy_logo":"https://image.flaticon.com/icons/svg/263/263145.svg"
+		"synergy_logo":""
    },
 
     "summary":{
-		"section_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"section_icon":"",
 		"card_icon":"",
-		"checking_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"checking_icon":"",
 		"saving_icon":"",
-		"credit_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-		"default_icon":"https://image.flaticon.com/icons/svg/263/263145.svg"
+		"credit_icon":"",
+		"default_icon":""
     },
 
     "details":{
-		"banner":"https://image.flaticon.com/icons/svg/263/263145.svg"
+		"banner":""
 	},
 
    "dates":{
@@ -168,11 +168,11 @@ permalink: /assets/json/customize_1.json
 
    "transfers":{
         "origin_account_icon":"",
-		"transfer_progress_1":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"transfer_progress_1":"",
 		"transfer_progress_2":"",
-		"transfer_progress_3":"https://image.flaticon.com/icons/svg/263/263145.svg",
+		"transfer_progress_3":"",
 		"transfer_progress_4":"",
-		"transfer_progress_5":"https://image.flaticon.com/icons/svg/263/263145.svg"
+		"transfer_progress_5":""
    }
 }
 
