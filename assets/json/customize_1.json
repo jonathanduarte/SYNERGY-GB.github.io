@@ -12,7 +12,7 @@ permalink: /assets/json/customize_1.json
 		"common_font_weight": "",
 		"default_color": "",
 		"default_color_2": "",
-		"default_background" : ""
+		"default_background" : "https://image.flaticon.com/icons/svg/263/263145.svg"
 	},	
 	
 	"appHeader" : {
@@ -85,13 +85,13 @@ permalink: /assets/json/customize_1.json
 		"tutorial_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
 		"location_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
 		"contact_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-		"dashboard_background":""
+		"dashboard_background":"https://image.flaticon.com/icons/svg/263/263145.svg"
 	},
 
    "login":{
 		"bank_logo":"",
 		"synergy_footer":"",
-		"login_background":""
+		"login_background":"https://image.flaticon.com/icons/svg/263/263145.svg"
 	},
 
    "location":{
