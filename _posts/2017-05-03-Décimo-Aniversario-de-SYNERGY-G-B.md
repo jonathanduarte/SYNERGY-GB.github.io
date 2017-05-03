@@ -33,4 +33,4 @@ Finalmente quiero aprovechar la oportunidad para dar las gracias a todos aquello
 
 Son millones de usuarios que utilizan nuestra aplicaciones en Venezuela, Panamá, República Dominicana y Puerto Rico, que se benefician de una experiencia funcional y enriquecida. 
 
-Visita nuestra página y entérate de nuestra propuesta de valor.
+Visita [nuestra página principal http://synergy-gb.com](http://synergy-gb.com) y entérate de nuestra propuesta de valor.
