@@ -10,7 +10,7 @@ tags:
   - Synergy-GB
   - Aniversario
   - 10 años
-local_featured_image: 10AÑOS-01.png
+local_featured_image: 10ANIVbanner-01.png
 author: Alfredo Pereyra
 author_pic: Alfredo_Pereyra.jpg
 author_email: Alfredo_Pereyra.jpg
