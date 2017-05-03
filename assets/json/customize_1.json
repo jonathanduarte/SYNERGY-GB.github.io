@@ -91,7 +91,7 @@ permalink: /assets/json/customize_1.json
    "login":{
 		"bank_logo":"https://image.flaticon.com/icons/svg/263/263145.svg",
 		"synergy_footer":"",
-		"login_background":"https://image.flaticon.com/icons/svg/263/263145.svg"
+		"login_background":"http://blog.synergy-gb.com/assets/img/mercantil/BG/componente-04.png"
 	},
 
    "location":{
