@@ -2,7 +2,7 @@
 layout: inner
 date: '2017-05-03 11:02 -0400'
 categories: '- Anuncios'
-published: false
+published: true
 ref: 10añosSynergyGB
 lang:
   - es
