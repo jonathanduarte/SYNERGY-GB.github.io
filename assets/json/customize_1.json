@@ -46,9 +46,9 @@ permalink: /assets/json/customize_1.json
 		},
 		
 		"totalAmount" : {
-			"background_color": "",
-			"font_size":"",
-			"font_color":""
+			"background_color": "red",
+			"font_size":"12px",
+			"font_color":"white"
 		}
 
 	},
