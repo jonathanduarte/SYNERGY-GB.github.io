@@ -27,7 +27,7 @@ Nos sentimos muy agradecidos por todos aquellos que contribuyeron de una u otra 
 
 Logramos hacer realidad nuestra familia de productos **_BySynergyGB_** y seguimos adelante con ellos, que será el pilar fundamental para los próximos años de proyección internacional.
 
-Finalmente quiero aprovechar la oportunidad para dar las gracias a todos aquellos que nos acompañaron en este transitar de diez años, y recordarles que **SYNERGY-GB** somos todos. Gracias y seguimos adelante ! 
+Quiero aprovechar la oportunidad para dar las gracias a todos aquellos que nos acompañaron en este transitar de diez años, y recordarles que **SYNERGY-GB** somos todos. Gracias y seguimos adelante ! 
 
 ………………………………………………………………… 
 
