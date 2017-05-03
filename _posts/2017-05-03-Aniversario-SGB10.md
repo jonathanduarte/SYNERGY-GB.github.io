@@ -3,6 +3,21 @@ layout: inner
 date: '2017-05-03 11:02 -0400'
 categories: '- Anuncios'
 published: false
+ref: 10añosSynergyGB
+lang:
+  - es
+tags:
+  - Synergy-GB
+  - Aniversario
+  - 10 años
+local_featured_image: 10 años.jpg
+author: Alfredo Pereyra
+author_pic: Alfredo_Pereyra.jpg
+author_email: Alfredo_Pereyra.jpg
+lead_text: >-
+  En el año 2007 comenzamos a escribir nuestra historia y 10 años después
+  estamos orgullosos que seamos la plataforma de lanzamiento de excelentes
+  productos y soluciones de referencia por su alta calidad en la industria.
 ---
 # 10 Aniversario de Synergy-GB !
 
