@@ -1,12 +1,14 @@
 ---
 layout: inner
-title: 10mo Aniversario de SYNERGY-GB
+title: Décimo Aniversario de SYNERGY-GB
 date: '2017-05-03 11:02 -0400'
-categories: [Anuncios]
+categories: Anuncios
 published: true
 ref: 10añosSynergyGB
-lang: es
-tags: [Synergy-GB]
+lang:
+  - es
+tags:
+  - Synergy-GB
 local_featured_image: 10ANIVbanner-01.png
 author: Alfredo Pereyra
 author_pic: Alfredo_Pereyra.jpg
