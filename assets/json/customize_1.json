@@ -8,6 +8,7 @@ permalink: /assets/json/customize_1.json
   "style" : {
 	
 	"common": {
+		"app-default-font-family":"Times New Roman, serif",
 		"common_font_size": "",
 		"common_font_color": "",
 		"common_font_weight": "",
