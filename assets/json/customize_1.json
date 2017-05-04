@@ -25,7 +25,7 @@ permalink: /assets/json/customize_1.json
 		"default_button_color" : "#F08617",
 		"default_button_font_color" : "white",
 		"default_button_font_size" : "14px",
-		"default_button_font_weight": "bold",
+		"default_button_font_weight": "bold"
 	},
 	
 	"sectionTitle" : {
