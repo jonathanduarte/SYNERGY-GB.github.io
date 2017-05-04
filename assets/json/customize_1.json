@@ -11,7 +11,7 @@ permalink: /assets/json/customize_1.json
 		"common_font_color": "",
 		"common_font_weight": "",
 		"default_color": "",
-		"default_color_2": "blue",
+		"default_color_2": "",
 		"default_background" : "https://image.flaticon.com/icons/svg/263/263145.svg"
 	},	
 	
@@ -32,7 +32,8 @@ permalink: /assets/json/customize_1.json
 		"font_size":"17px",
 		"font_color":"green",
 		"text_align":"",
-		"font_weight": ""		
+		"font_weight": "",
+		"border":"2px solid black"	
 	},
 
 	"secondaryContainer" : {
