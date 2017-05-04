@@ -16,23 +16,23 @@ permalink: /assets/json/customize_1.json
 	},	
 	
 	"appHeader" : {
-		"app_header_color": "",
-		"app_header_font_size": "",
-		"app_header_font_color" : ""
+		"app_header_color": "#0F6E00",
+		"app_header_font_size": "17px",
+		"app_header_font_color" : "white"
 	},
 
 	"button" : {
-		"default_button_color" : "",
-		"default_button_text_color" : "",
-		"default_button_text_size" : ""
+		"default_button_color" : "#F08617",
+		"default_button_text_color" : "white",
+		"default_button_text_size" : "14px"
 	},
 	
 	"sectionTitle" : {
-		"background_color": "",
-		"font_size":"",
-		"font_color":"",
-		"text_align":"",
-		"font_weight": "",
+		"background_color": "#2EB319",
+		"font_size":"15px",
+		"font_color":"black",
+		"text_align":"center",
+		"font_weight": "bold",
 		"border":""	
 	},
 
