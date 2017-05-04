@@ -38,6 +38,7 @@ permalink: /assets/json/customize_1.json
 
 	"secondaryContainer" : {
 		"background_color": "gray",
+		"border":"2px solid black",
 
 		"instrument" : {
 			"account_font_size": "",
