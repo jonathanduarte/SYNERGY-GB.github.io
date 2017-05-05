@@ -14,7 +14,7 @@ permalink: /assets/json/customize_1.json
 				"common_font_weight": "",
 				"title_font_size": "12px",
 				"title_font_color": "green",
-				"title_font_weight": "bold"
+				"title_font_weight": "bold",
 				"default_color": "purple",
 				"default_background" : ""
 			},	
