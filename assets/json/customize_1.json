@@ -113,19 +113,19 @@ permalink: /assets/json/customize_1.json
 
 		   "contact":{
 				"address":{
-					"info":"contact_address_desc",
+					"info":"Av. FFAA",
 					"resource":"https://image.flaticon.com/icons/svg/263/263145.svg",
 					"title":"contact_address"
 				},
 
 				"phone":{
-					"info":"contact_phone_desc",
+					"info":"0000-0000000",
 					"resource":"https://image.flaticon.com/icons/svg/263/263145.svg",
 					"title":"contact_phone_numbers",
 					"number":"+5805017529200"
 				},
 				"hours":{
-					"info":"contact_hours_desc",
+					"info":"1:00PM-3:00pm",
 					"resource":"https://image.flaticon.com/icons/svg/263/263145.svg",
 					"title":"contact_hours"
 				},
