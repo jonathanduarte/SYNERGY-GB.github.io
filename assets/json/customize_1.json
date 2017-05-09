@@ -92,7 +92,6 @@ permalink: /assets/json/customize_1.json
 
 		  "dashboard":{
 				"welcomeResource":"",
-				"login_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
 				"tutorial_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
 				"location_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
 				"contact_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
