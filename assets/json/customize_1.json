@@ -84,6 +84,11 @@ permalink: /assets/json/customize_1.json
 					"font_color":"",
 					"text_align":"",
 					"font_weight": ""	
+			},
+
+
+			"icons":{
+				"arrow_summary": "ion-earth"
 			}
 	
   },
