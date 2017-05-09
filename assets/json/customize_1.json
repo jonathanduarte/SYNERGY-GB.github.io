@@ -88,7 +88,9 @@ permalink: /assets/json/customize_1.json
 
 
 			"icons":{
-				"arrow_summary": "ion-earth"
+				"arrow_summary": "ion-earth",
+				"detail_calendar": "ion-bug",
+				"detail_forward":"ion-arrow-right-c"
 			}
 	
   },
