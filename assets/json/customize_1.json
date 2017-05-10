@@ -100,7 +100,7 @@ permalink: /assets/json/customize_1.json
 
 		  "dashboard":{
 				"welcomeResource":"",
-				
+				"login_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
 				"tutorial_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
 				"location_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
 				"contact_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
@@ -108,15 +108,15 @@ permalink: /assets/json/customize_1.json
 			},
 
 		   "login":{
-				"bank_logo":"",
-				"synergy_footer":"",
+				"bank_logo":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"synergy_footer":"https://image.flaticon.com/icons/svg/263/263145.svg",
 				"login_background":"http://blog.synergy-gb.com/assets/img/mercantil/BG/componente-04.png"
 			},
 
 		   "location":{
-				"marker_icon":"",
-				"brand_icon":"",
-				"user_icon":""
+				"marker_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"brand_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"user_icon":"https://image.flaticon.com/icons/svg/263/263145.svg"
 		 	},
 
 		   "contact":{
@@ -156,15 +156,15 @@ permalink: /assets/json/customize_1.json
 		    },
 
 		   "side_menu":{
-				"summary_icon":"",
-				"transfer_icon":"",
-				"p2p_icon":"",
-				"credits_icon":"",
-				"requests_icon":"",
-				"approvals_icon":"",
-				"about_icon":"",
-				"close_session_icon":"",
-				"synergy_logo":""
+				"summary_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"transfer_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"p2p_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"credits_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"requests_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"approvals_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"about_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"close_session_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"synergy_logo":"https://image.flaticon.com/icons/svg/263/263145.svg"
 		   },
 
 		    "summary":{
@@ -176,21 +176,21 @@ permalink: /assets/json/customize_1.json
 		    },
 
 		    "details":{
-				"banner":""
+				"banner":"https://image.flaticon.com/icons/svg/263/263145.svg"
 			},
 
 		   "dates":{
-				"last_payment_marker":"",
-				"next_payment_marker":""
+				"last_payment_marker":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"next_payment_marker":"https://image.flaticon.com/icons/svg/263/263145.svg"
 		   },
 
 		   "transfers":{
-		        "origin_account_icon":"",
-				"transfer_progress_1":"",
-				"transfer_progress_2":"",
-				"transfer_progress_3":"",
-				"transfer_progress_4":"",
-				"transfer_progress_5":""
+		        "origin_account_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"transfer_progress_1":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"transfer_progress_2":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"transfer_progress_3":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"transfer_progress_4":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"transfer_progress_5":"https://image.flaticon.com/icons/svg/263/263145.svg"
 		   }
 	}
 }
