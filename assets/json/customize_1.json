@@ -99,12 +99,7 @@ permalink: /assets/json/customize_1.json
   "resources": {
 
 		  "dashboard":{
-				"welcomeResource":"",
-				"login_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-				"tutorial_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-				"location_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-				"contact_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-				"dashboard_background":"http://blog.synergy-gb.com/assets/img/mercantil/BG/componente-04.png"
+
 			},
 
 		   "login":{
@@ -158,10 +153,7 @@ permalink: /assets/json/customize_1.json
 		   "side_menu":{
 				"summary_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
 				"transfer_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-				"p2p_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-				"credits_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-				"requests_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-				"approvals_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+
 				"about_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
 				"close_session_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
 				"synergy_logo":"https://image.flaticon.com/icons/svg/263/263145.svg"
@@ -171,8 +163,7 @@ permalink: /assets/json/customize_1.json
 				"section_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
 				"card_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
 				"saving_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-				"checking_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-				"credit_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+
 				"default_icon":"https://image.flaticon.com/icons/svg/263/263145.svg"
 		    },
 
@@ -188,7 +179,7 @@ permalink: /assets/json/customize_1.json
 		   "transfers":{
 		        "origin_account_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
 				"transfer_progress_1":"https://image.flaticon.com/icons/svg/263/263145.svg",
-				"transfer_progress_2":"https://image.flaticon.com/icons/svg/263/263145.svg",
+
 				"transfer_progress_3":"https://image.flaticon.com/icons/svg/263/263145.svg",
 				"transfer_progress_4":"https://image.flaticon.com/icons/svg/263/263145.svg",
 				"transfer_progress_5":"https://image.flaticon.com/icons/svg/263/263145.svg"
