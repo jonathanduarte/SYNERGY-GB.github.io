@@ -22,7 +22,7 @@ permalink: /assets/json/customize_1.json
 			"appHeader" : {
 				"app_header_color": "blue",
 				"app_header_font_size": "17px",
-				"app_header_font_color" : "#f8f8f8"
+				"app_header_font_color" : "yellow"
 			},
 
 			"button" : {
@@ -47,7 +47,7 @@ permalink: /assets/json/customize_1.json
 
 				"instrument" : {
 					"account_font_size": "15px",
-					"account_font_color": "#f8f8f8",
+					"account_font_color": "black",
 					"account_font_weight":"",
 					"amount_font_size": "17px",
 					"amount_font_color": "blue",	
