@@ -8,36 +8,36 @@ permalink: /assets/json/customize_1.json
   "style" : {
 	
 			"common": {
-				"app_default_font_family":"Times New Roman, serif",
-				"common_font_size": "12px",
+				"app_default_font_family":"",
+				"common_font_size": "",
 				"common_font_color": "",
 				"common_font_weight": "",
-				"title_font_size": "12px",
-				"title_font_color": "green",
-				"title_font_weight": "bold",
-				"default_color": "purple",
+				"title_font_size": "",
+				"title_font_color": "",
+				"title_font_weight": "",
+				"default_color": "",
 				"default_background" : ""
 			},	
 			
 			"appHeader" : {
-				"app_header_color": "#0F6E00",
-				"app_header_font_size": "17px",
-				"app_header_font_color" : "red"
+				"app_header_color": "",
+				"app_header_font_size": "",
+				"app_header_font_color" : ""
 			},
 
 			"button" : {
-				"default_button_color" : "#F08617",
-				"default_button_font_color" : "white",
-				"default_button_font_size" : "14px",
-				"default_button_font_weight": "bold"
+				"default_button_color" : "",
+				"default_button_font_color" : "",
+				"default_button_font_size" : "",
+				"default_button_font_weight": ""
 			},
 			
 			"sectionTitle" : {
-				"background_color": "#2EB319",
-				"font_size":"15px",
-				"font_color":"black",
-				"text_align":"center",
-				"font_weight": "bold",
+				"background_color": "",
+				"font_size":"",
+				"font_color":"",
+				"text_align":"",
+				"font_weight": "",
 				"border":""	
 			},
 
@@ -46,12 +46,12 @@ permalink: /assets/json/customize_1.json
 				"border":"",
 
 				"instrument" : {
-					"account_font_size": "15px",
-					"account_font_color": "yellow",
+					"account_font_size": "",
+					"account_font_color": "",
 					"account_font_weight":"",
-					"amount_font_size": "17px",
-					"amount_font_color": "red",	
-					"amount_font_weight":"bold"
+					"amount_font_size": "",
+					"amount_font_color": "",	
+					"amount_font_weight":""
 				},
 				
 				"totalAmount" : {
@@ -64,7 +64,7 @@ permalink: /assets/json/customize_1.json
 			
 
 			"dashboard":{
-				"title_font_color":"green",
+				"title_font_color":"",
 				"title_font_size":"",
 				"subtitle_font_color":"",
 				"subtitle_font_size":""
