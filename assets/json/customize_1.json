@@ -16,7 +16,7 @@ permalink: /assets/json/customize_1.json
 				"title_font_color": "orange",
 				"title_font_weight": "bold",
 				"default_color": "yello2",
-				"default_background" : ""
+				"default_background" : "http://blog.synergy-gb.com/assets/img/mercantil/BG/componente-04.png"
 			},	
 			
 			"appHeader" : {
