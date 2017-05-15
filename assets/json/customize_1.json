@@ -34,7 +34,7 @@ permalink: /assets/json/customize_1.json
 			
 			"sectionTitle" : {
 				"background_color": "",
-				"font_size":"15px",
+				"font_size":"1px",
 				"font_color":"white",
 				"text_align":"center",
 				"font_weight": "bold",
