@@ -42,7 +42,7 @@ permalink: /assets/json/customize_1.json
 			},
 
 			"secondaryContainer" : {
-				"background_color": "green",
+				"background_color": "",
 				"border":"",
 
 				"instrument" : {
