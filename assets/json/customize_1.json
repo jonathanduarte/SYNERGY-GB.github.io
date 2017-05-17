@@ -33,7 +33,7 @@ permalink: /assets/json/customize_1.json
 			},
 			
 			"sectionTitle" : {
-				"background_color": "yellow",
+				"background_color": "",
 				"font_size":"16px",
 				"font_color":"white",
 				"text_align":"center",
