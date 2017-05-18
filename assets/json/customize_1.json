@@ -80,10 +80,11 @@ permalink: /assets/json/customize_1.json
 
 
 			"sideMenu" : {
+					"menu_background":"",
 					"font_size":"",
 					"font_color":"",
 					"text_align":"",
-					"font_weight": ""	
+					"font_weight": ""
 			},
 
 
