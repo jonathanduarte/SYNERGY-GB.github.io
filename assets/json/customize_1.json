@@ -20,9 +20,9 @@ permalink: /assets/json/customize_1.json
 			},	
 			
 			"appHeader" : {
-				"app_header_color": "",
-				"app_header_font_size": "",
-				"app_header_font_color" : ""
+				"app_header_color": "gold",
+				"app_header_font_size": "12px",
+				"app_header_font_color" : "black"
 			},
 
 			"button" : {
