@@ -9,9 +9,9 @@ permalink: /assets/json/customize_1.json
 	
 			"common": {
 				"app_default_font_family":"",
-				"common_font_size": "",
-				"common_font_color": "",
-				"common_font_weight": "",
+				"common_font_size": "14px",
+				"common_font_color": "red",
+				"common_font_weight": "bold",
 				"title_font_size": "",
 				"title_font_color": "",
 				"title_font_weight": "",
