@@ -33,9 +33,9 @@ permalink: /assets/json/customize_BNP.json
 			},
 			
 			"sectionTitle" : {
-				"background_color": "#001f5b",
-				"font_size":"",
-				"font_color":"",
+				"background_color": "",
+				"font_size":"17px",
+				"font_color":"#001f5b",
 				"text_align":"",
 				"font_weight": "",
 				"border":""	
@@ -46,12 +46,12 @@ permalink: /assets/json/customize_BNP.json
 				"border":"",
 
 				"instrument" : {
-					"account_font_size": "14px",
-					"account_font_color": "",
+					"account_font_size": "15px",
+					"account_font_color": "#f2f2f2",
 					"account_font_weight":"",
-					"amount_font_size": "16px",
+					"amount_font_size": "17px",
 					"amount_font_color": "black",	
-					"amount_font_weight":""
+					"amount_font_weight":"bold"
 				},
 				
 				"totalAmount" : {
