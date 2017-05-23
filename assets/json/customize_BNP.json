@@ -15,14 +15,14 @@ permalink: /assets/json/customize_BNP.json
 				"title_font_size": "",
 				"title_font_color": "",
 				"title_font_weight": "",
-				"default_color": "",
+				"default_color": "#c6093b",
 				"default_background" : ""
 			},	
 			
 			"appHeader" : {
-				"app_header_color": "",
-				"app_header_font_size": "",
-				"app_header_font_color" : ""
+				"app_header_color": "#1756a7",
+				"app_header_font_size": "18px",
+				"app_header_font_color" : "white"
 			},
 
 			"button" : {
@@ -89,10 +89,10 @@ permalink: /assets/json/customize_BNP.json
 
 
 			"icons":{
-				"arrow_summary": "ion-earth",
-				"detail_calendar": "ion-bug",
-				"detail_forward":"ion-arrow-right-c",
-				"search": "ion-pizza"
+				"arrow_summary": "",
+				"detail_calendar": "",
+				"detail_forward":"",
+				"search": ""
 			}
 	
   },
@@ -109,9 +109,9 @@ permalink: /assets/json/customize_BNP.json
 			},
 
 		   "login":{
-				"bank_logo":"",
+				"bank_logo":"http://blog.synergy-gb.com/assets/img/BNP/LOGOS/Recursos%20BNP_Kiraso-03.png",
 				"synergy_footer":"",
-				"login_background":""
+				"login_background":"http://blog.synergy-gb.com/assets/img/BNP/BG/Recursos%20BNP_Kiraso-02.png"
 			},
 
 		   "location":{
