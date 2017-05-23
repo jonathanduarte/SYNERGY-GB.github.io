@@ -100,11 +100,11 @@ permalink: /assets/json/customize_BNP.json
   "resources": {
 
 		  "dashboard":{
-				"welcomeResource":"",
+				"welcomeResource":"http://blog.synergy-gb.com/assets/img/BNP/LOGOS/Recursos%20BNP_Kiraso-03.png",
 				"login_icon":"http://blog.synergy-gb.com/assets/img/BNP/ICONOS/Recursos%20BNP_Kiraso-07.png",
 				"tutorial_icon":"http://blog.synergy-gb.com/assets/img/BNP/ICONOS/Recursos%20BNP_Kiraso-08.png",
-				"location_icon":"http://blog.synergy-gb.com/assets/img/BNP/ICONOS/Recursos%20BNP_Kiraso-09.png",
-				"contact_icon":"http://blog.synergy-gb.com/assets/img/BNP/ICONOS/Recursos%20BNP_Kiraso-10.png",
+				"location_icon":"http://blog.synergy-gb.com/assets/img/BNP/ICONOS/Recursos%20BNP_Kiraso-10.png",
+				"contact_icon":"http://blog.synergy-gb.com/assets/img/BNP/ICONOS/Recursos%20BNP_Kiraso-09.png",
 				"dashboard_background":"http://blog.synergy-gb.com/assets/img/BNP/BG/Recursos%20BNP_Kiraso-02.png"
 			},
 
