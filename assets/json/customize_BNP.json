@@ -10,7 +10,7 @@ permalink: /assets/json/customize_BNP.json
 			"common": {
 				"app_default_font_family":"",
 				"common_font_size": "",
-				"common_font_color": "",
+				"common_font_color": "black",
 				"common_font_weight": "",
 				"title_font_size": "",
 				"title_font_color": "",
@@ -26,10 +26,10 @@ permalink: /assets/json/customize_BNP.json
 			},
 
 			"button" : {
-				"default_button_color" : "transparent",
-				"button_border":"3px solid #c6093b",
+				"default_button_color" : "#c6093b",
+				"button_border":"",
 				"button_border_radius":"15px",
-				"default_button_font_color" : "#c6093b",
+				"default_button_font_color" : "white",
 				"default_button_font_size" : "",
 				"default_button_font_weight": ""
 			},
