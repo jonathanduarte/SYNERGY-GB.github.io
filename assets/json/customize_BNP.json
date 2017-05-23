@@ -33,7 +33,7 @@ permalink: /assets/json/customize_BNP.json
 			},
 			
 			"sectionTitle" : {
-				"background_color": "",
+				"background_color": "#001f5b",
 				"font_size":"",
 				"font_color":"",
 				"text_align":"",
@@ -46,11 +46,11 @@ permalink: /assets/json/customize_BNP.json
 				"border":"",
 
 				"instrument" : {
-					"account_font_size": "",
+					"account_font_size": "14px",
 					"account_font_color": "",
 					"account_font_weight":"",
-					"amount_font_size": "",
-					"amount_font_color": "",	
+					"amount_font_size": "16px",
+					"amount_font_color": "black",	
 					"amount_font_weight":""
 				},
 				
