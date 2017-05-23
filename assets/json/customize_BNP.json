@@ -27,7 +27,7 @@ permalink: /assets/json/customize_BNP.json
 
 			"button" : {
 				"default_button_color" : "",
-				"button_border":"",
+				"button_border":"2px solid #c6093b",
 				"button_border_radius":"",
 				"default_button_font_color" : "",
 				"default_button_font_size" : "",
