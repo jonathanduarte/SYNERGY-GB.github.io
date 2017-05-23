@@ -29,7 +29,9 @@ permalink: /assets/json/customize_1.json
 				"default_button_color" : "",
 				"default_button_font_color" : "",
 				"default_button_font_size" : "",
-				"default_button_font_weight": ""
+				"default_button_font_weight": "",
+				"button_border":"",
+				"button_border_radius":""
 			},
 			
 			"sectionTitle" : {
