@@ -84,7 +84,7 @@ permalink: /assets/json/customize_BNP.json
 			"sideMenu" : {
 					"menu_background_image":"",
 					"font_size":"",
-					"font_color":"",
+					"font_color":"black",
 					"text_align":"",
 					"font_weight": ""
 			},
