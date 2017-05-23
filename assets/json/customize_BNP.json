@@ -169,11 +169,11 @@ permalink: /assets/json/customize_BNP.json
 		   },
 
 		    "summary":{
-				"section_icon":"",
-				"card_icon":"",
-				"checking_icon":"",
-				"credit_icon":"",
-				"default_icon":""
+				"section_icon":"http://blog.synergy-gb.com/assets/img/BNP/ICONOS/Recursos%20BNP_Kiraso-17.png",
+				"card_icon":"http://blog.synergy-gb.com/assets/img/BNP/ICONOS/Recursos%20BNP_Kiraso-17.png",
+				"checking_icon":"http://blog.synergy-gb.com/assets/img/BNP/ICONOS/Recursos%20BNP_Kiraso-17.png",
+				"credit_icon":"http://blog.synergy-gb.com/assets/img/BNP/ICONOS/Recursos%20BNP_Kiraso-13.png",
+				"default_icon":"http://blog.synergy-gb.com/assets/img/BNP/ICONOS/Recursos%20BNP_Kiraso-17.png"
 		    },
 
 		    "details":{
