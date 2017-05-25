@@ -20,7 +20,7 @@ permalink: /assets/json/customize_unibank.json
 			},	
 			
 			"appHeader" : {
-				"app_header_color": "red",
+				"app_header_color": "#f48430",
 				"app_header_font_size": "",
 				"app_header_font_color" : "white"
 			},
