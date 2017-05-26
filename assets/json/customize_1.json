@@ -162,7 +162,7 @@ permalink: /assets/json/customize_1.json
 				"summary_icon":"",
 				"transfer_icon":"",
 				"p2p_icon":"",
-				"credits_icon":"",
+				"credits_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
 				"requests_icon":"",
 				"approvals_icon":"",
 				"about_icon":"",
