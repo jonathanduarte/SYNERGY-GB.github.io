@@ -82,7 +82,7 @@ permalink: /assets/json/customize_activo.json
 
 
 			"sideMenu" : {
-					"menu_background_image":"",
+					"menu_background_image":"http://blog.synergy-gb.com/assets/img/AIB/BG/Recursos-02.png",
 					"font_size":"",
 					"font_color":"",
 					"text_align":"",
