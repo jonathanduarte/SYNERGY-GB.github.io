@@ -15,19 +15,19 @@ permalink: /assets/json/customize_activo.json
 				"title_font_size": "",
 				"title_font_color": "",
 				"title_font_weight": "",
-				"default_color": "#f48E30",
+				"default_color": "",
 				"default_background" : ""
 			},	
 			
 			"appHeader" : {
-				"app_header_color": "#f48E30",
+				"app_header_color": "",
 				"app_header_font_size": "",
-				"app_header_font_color" : "white"
+				"app_header_font_color" : ""
 			},
 
 			"button" : {
-				"default_button_color" : "#f48E30",
-				"default_button_font_color" : "white",
+				"default_button_color" : "",
+				"default_button_font_color" : "",
 				"default_button_font_size" : "",
 				"default_button_font_weight": "",
 				"button_border":"",
@@ -35,7 +35,7 @@ permalink: /assets/json/customize_activo.json
 			},
 			
 			"sectionTitle" : {
-				"background_color": "#5d717d",
+				"background_color": "",
 				"font_size":"",
 				"font_color":"",
 				"text_align":"",
@@ -57,9 +57,9 @@ permalink: /assets/json/customize_activo.json
 				},
 				
 				"totalAmount" : {
-					"background_color": "#f48E30",
+					"background_color": "",
 					"font_size":"",
-					"font_color":"white"
+					"font_color":""
 				}
 
 			},
