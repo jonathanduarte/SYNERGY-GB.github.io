@@ -91,7 +91,7 @@ permalink: /assets/json/customize_activo.json
 
 
 			"icons":{
-				"arrow_summary": "",
+				"arrow_summary": "ion-arrow-right-b",
 				"detail_calendar": "",
 				"detail_forward":"",
 				"search": ""
