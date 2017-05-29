@@ -52,7 +52,7 @@ permalink: /assets/json/customize_activo.json
 					"account_font_color": "#4f4f4f",
 					"account_font_weight":"",
 					"amount_font_size": "",
-					"amount_font_color": "red",	
+					"amount_font_color": "#01a8d8",	
 					"amount_font_weight":"bold"
 				},
 				
