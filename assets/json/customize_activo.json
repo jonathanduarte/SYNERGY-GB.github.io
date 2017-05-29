@@ -13,31 +13,31 @@ permalink: /assets/json/customize_activo.json
 				"common_font_color": "",
 				"common_font_weight": "",
 				"title_font_size": "",
-				"title_font_color": "",
+				"title_font_color": "#01a8d8",
 				"title_font_weight": "",
 				"default_color": "",
 				"default_background" : ""
 			},	
 			
 			"appHeader" : {
-				"app_header_color": "",
+				"app_header_color": "transparent",
 				"app_header_font_size": "",
-				"app_header_font_color" : ""
+				"app_header_font_color" : "#002856"
 			},
 
 			"button" : {
-				"default_button_color" : "",
-				"default_button_font_color" : "",
+				"default_button_color" : "transparent",
+				"default_button_font_color" : "#002856",
 				"default_button_font_size" : "",
 				"default_button_font_weight": "",
-				"button_border":"",
+				"button_border":"1px solid #002856",
 				"button_border_radius":""
 			},
 			
 			"sectionTitle" : {
-				"background_color": "",
+				"background_color": "#002856",
 				"font_size":"",
-				"font_color":"",
+				"font_color":"white",
 				"text_align":"",
 				"font_weight": "",
 				"border":""	
@@ -52,14 +52,14 @@ permalink: /assets/json/customize_activo.json
 					"account_font_color": "",
 					"account_font_weight":"",
 					"amount_font_size": "",
-					"amount_font_color": "",	
-					"amount_font_weight":""
+					"amount_font_color": "#01a8d8",	
+					"amount_font_weight":"bold"
 				},
 				
 				"totalAmount" : {
 					"background_color": "",
 					"font_size":"",
-					"font_color":""
+					"font_color":"white"
 				}
 
 			},
@@ -76,7 +76,7 @@ permalink: /assets/json/customize_activo.json
 
 			"welcomeMessage" : {
 				"font_size":"",
-				"font_color":""
+				"font_color":"#01a8d8"
 			},
 			
 
