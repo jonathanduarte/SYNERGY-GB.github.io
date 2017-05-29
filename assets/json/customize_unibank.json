@@ -15,18 +15,18 @@ permalink: /assets/json/customize_unibank.json
 				"title_font_size": "",
 				"title_font_color": "",
 				"title_font_weight": "",
-				"default_color": "#f48430",
+				"default_color": "#f48E30",
 				"default_background" : ""
 			},	
 			
 			"appHeader" : {
-				"app_header_color": "#f48430",
+				"app_header_color": "#f48E30",
 				"app_header_font_size": "",
 				"app_header_font_color" : "white"
 			},
 
 			"button" : {
-				"default_button_color" : "#f48430",
+				"default_button_color" : "#f48E30",
 				"default_button_font_color" : "white",
 				"default_button_font_size" : "",
 				"default_button_font_weight": "",
@@ -57,7 +57,7 @@ permalink: /assets/json/customize_unibank.json
 				},
 				
 				"totalAmount" : {
-					"background_color": "#f48430",
+					"background_color": "#f48E30",
 					"font_size":"",
 					"font_color":"white"
 				}
