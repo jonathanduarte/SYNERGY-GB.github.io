@@ -10,13 +10,13 @@ permalink: /assets/json/customize_activo.json
 			"common": {
 				"app_default_font_family":"",
 				"common_font_size": "",
-				"common_font_color": "",
+				"common_font_color": "#4f4f4f",
 				"common_font_weight": "",
 				"title_font_size": "",
 				"title_font_color": "#01a8d8",
 				"title_font_weight": "",
-				"default_color": "",
-				"default_background" : ""
+				"default_color": "#01a8d8",
+				"default_background" : "http://blog.synergy-gb.com/assets/img/AIB/BG/Recursos-02.png"
 			},	
 			
 			"appHeader" : {
@@ -49,7 +49,7 @@ permalink: /assets/json/customize_activo.json
 
 				"instrument" : {
 					"account_font_size": "",
-					"account_font_color": "",
+					"account_font_color": "#4f4f4f",
 					"account_font_weight":"",
 					"amount_font_size": "",
 					"amount_font_color": "#01a8d8",	
