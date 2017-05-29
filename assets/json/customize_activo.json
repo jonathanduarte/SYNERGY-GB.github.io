@@ -102,99 +102,99 @@ permalink: /assets/json/customize_activo.json
   "resources": {
 
 		  "dashboard":{
-				"welcomeResource":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/LOGOS/componente-03.svg",
-				"login_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-08.svg",
-				"tutorial_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-09.svg",
-				"location_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-10.svg",
-				"contact_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-11.svg",
-				"dashboard_background":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/BG/componente-02.png"
+				"welcomeResource":"http://blog.synergy-gb.com/assets/img/AIB/LOGOS/componente-04.svg",
+				"login_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-14.svg",
+				"tutorial_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-15.svg",
+				"location_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOSRecursos-16.svg",
+				"contact_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-17.svg",
+				"dashboard_background":"http://blog.synergy-gb.com/assets/img/AIB/BG/Recursos-02.png"
 			},
 
 		   "login":{
-				"bank_logo":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/LOGOS/componente-04.svg",
+				"bank_logo":"http://blog.synergy-gb.com/assets/img/AIB/LOGOS/componente-04.svg",
 				"synergy_footer":"",
-				"login_background":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/BG/componente-54.png"
+				"login_background":"http://blog.synergy-gb.com/assets/img/AIB/BG/Recursos-02.pn"
 			},
 
 		   "location":{
-				"marker_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-46.svg",
+				"marker_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-49.svg",
 				"brand_icon":"",
-				"user_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-47.svg"
+				"user_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-50.svg"
 		 	},
 
 		   "contact":{
 				"address":{
 					"info":"Av. FFAA",
-					"resource":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-40.svg",
+					"resource":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-43.svg",
 					"title":"contact_address"
 				},
 
 				"phone":{
 					"info":"0000-0000000",
-					"resource":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-41.svg",
+					"resource":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-44.svg",
 					"title":"contact_phone_numbers",
 					"number":"+5805017529200"
 				},
 				"hours":{
 					"info":"1:00PM-3:00pm",
-					"resource":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-42.svg",
+					"resource":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-45.svg",
 					"title":"contact_hours"
 				},
 				"social1":{
 					"info":"contact_twitter_desc",
-					"resource":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-43.svg",
+					"resource":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-46.svg",
 					"url":"https://twitter.com/SynergyGB"
 				},
 
 				"social2":{
 					"info":"contact_facebook_desc",
-					"resource":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-44.svg",
+					"resource":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-47.svg",
 					"url":"https://www.facebook.com/SynergyGB/"
 				},
 				"social3":{
 					"info":"contact_youtube_desc",
-					"resource":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-45.svg",
+					"resource":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-48.svg",
 					"url":"https://www.youtube.com/user/SynergyGB"
 				}
 		    },
 
 		   "side_menu":{
-				"summary_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-20.svg",
-				"transfer_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-19.svg",
-				"p2p_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-22.svg",
-				"credits_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-18.svg",
-				"requests_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-21.svg",
-				"approvals_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-21.svg",
-				"about_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-23.svg",
-				"close_session_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-24.svg",
+				"summary_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-24.svg",
+				"transfer_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-25.svg",
+				"p2p_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/componente-22.svg",
+				"credits_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-22.svg",
+				"requests_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-26.svg",
+				"approvals_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-26.svg",
+				"about_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-27.svg",
+				"close_session_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-28.svg",
 				"synergy_logo":""
 		   },
 
 		    "summary":{
-				"section_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-23.svg",
-				"saving_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-13.svg",
-				"card_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-14.svg",
-				"checking_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-12.svg",
-				"credit_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-14.svg",
-				"default_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-12.svg"
+				"section_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-27.svg",
+				"saving_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-21.svg",
+				"card_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-22.svg",
+				"checking_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-20.svg",
+				"credit_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-24.svg",
+				"default_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-20.svg"
 		    },
 
 		    "details":{
-				"banner":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/OTROS/componente-48.png"
+				"banner":"http://blog.synergy-gb.com/assets/img/AIB/OTROS/Recursos-08.png"
 			},
 
 		   "dates":{
-				"last_payment_marker":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-37.svg",
-				"next_payment_marker":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-38.svg"
+				"last_payment_marker":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-40.svg",
+				"next_payment_marker":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-41.svg"
 		   },
 
 		   "transfers":{
-		        "origin_account_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-20.svg",
-				"transfer_progress_1":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/OTROS/componente-49.svg",
-				"transfer_progress_2":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/OTROS/componente-50.svg",
-				"transfer_progress_3":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/OTROS/componente-51.svg",
-				"transfer_progress_4":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/OTROS/componente-52.svg",
-				"transfer_progress_5":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/OTROS/componente-53.svg"
+		        "origin_account_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-20.svg",
+				"transfer_progress_1":"http://blog.synergy-gb.com/assets/img/AIB/OTROS/Recursos-09.svg",
+				"transfer_progress_2":"http://blog.synergy-gb.com/assets/img/AIB/OTROS/Recursos-10.svg",
+				"transfer_progress_3":"http://blog.synergy-gb.com/assets/img/AIB/OTROS/Recursos-11.svg",
+				"transfer_progress_4":"http://blog.synergy-gb.com/assets/img/AIB/OTROS/Recursos-12.svg",
+				"transfer_progress_5":"http://blog.synergy-gb.com/assets/img/AIB/OTROS/Recursos-13.svg"
 		   }
 	}
 }
