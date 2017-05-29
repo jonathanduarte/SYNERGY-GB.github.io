@@ -102,16 +102,16 @@ permalink: /assets/json/customize_activo.json
   "resources": {
 
 		  "dashboard":{
-				"welcomeResource":"http://blog.synergy-gb.com/assets/img/AIB/LOGOS/componente-04.svg",
+				"welcomeResource":"http://blog.synergy-gb.com/assets/img/AIB/LOGOS/Recursos-04.svg",
 				"login_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-14.svg",
 				"tutorial_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-15.svg",
-				"location_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOSRecursos-16.svg",
+				"location_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-16.svg",
 				"contact_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-17.svg",
 				"dashboard_background":"http://blog.synergy-gb.com/assets/img/AIB/BG/Recursos-02.png"
 			},
 
 		   "login":{
-				"bank_logo":"http://blog.synergy-gb.com/assets/img/AIB/LOGOS/componente-04.svg",
+				"bank_logo":"http://blog.synergy-gb.com/assets/img/AIB/LOGOS/Recursos-04.svg",
 				"synergy_footer":"",
 				"login_background":"http://blog.synergy-gb.com/assets/img/AIB/BG/Recursos-02.pn"
 			},
