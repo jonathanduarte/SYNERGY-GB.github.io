@@ -28,9 +28,9 @@ permalink: /assets/json/customize_activo.json
 			"button" : {
 				"default_button_color" : "transparent",
 				"default_button_font_color" : "#002856",
-				"default_button_font_size" : "",
-				"default_button_font_weight": "",
-				"button_border":"1px solid #002856",
+				"default_button_font_size" : "18px",
+				"default_button_font_weight": "bold",
+				"button_border":"3px solid #002856",
 				"button_border_radius":""
 			},
 			
