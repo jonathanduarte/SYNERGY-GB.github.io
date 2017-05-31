@@ -8,65 +8,65 @@ permalink: /assets/json/customize_1.json
   "style" : {
 	
 			"common": {
-				"app_default_font_family":"",
-				"common_font_size": "",
-				"common_font_color": "",
+				"app_default_font_family":"Times New Roman",
+				"common_font_size": "11px",
+				"common_font_color": "purple",
 				"common_font_weight": "",
-				"title_font_size": "",
-				"title_font_color": "",
-				"title_font_weight": "",
-				"default_color": "",
-				"default_background" : ""
+				"title_font_size": "16px",
+				"title_font_color": "blue",
+				"title_font_weight": "bold",
+				"default_color": "red",
+				"default_background" : "http://blog.synergy-gb.com/assets/img/AIB/BG/Recursos-02.png"
 			},	
 			
 			"appHeader" : {
-				"app_header_color": "",
-				"app_header_font_size": "",
-				"app_header_font_color" : ""
+				"app_header_color": "gold",
+				"app_header_font_size": "20px",
+				"app_header_font_color" : "black"
 			},
 
 			"button" : {
-				"default_button_color" : "",
-				"default_button_font_color" : "",
-				"default_button_font_size" : "",
-				"default_button_font_weight": "",
-				"button_border":"",
-				"button_border_radius":""
+				"default_button_color" : "yellow",
+				"default_button_font_color" : "green",
+				"default_button_font_size" : "10px",
+				"default_button_font_weight": "bold",
+				"button_border":"3px solid black",
+				"button_border_radius":"20px"
 			},
 			
 			"sectionTitle" : {
-				"background_color": "",
-				"font_size":"",
-				"font_color":"",
-				"text_align":"",
-				"font_weight": "",
+				"background_color": "black",
+				"font_size":"15px",
+				"font_color":"silver",
+				"text_align":"center",
+				"font_weight": "bold",
 				"border":""	
 			},
 
 			"secondaryContainer" : {
-				"background_color": "",
+				"background_color": "gray",
 				"border":"",
 
 				"instrument" : {
 					"account_font_size": "",
-					"account_font_color": "",
+					"account_font_color": "blue",
 					"account_font_weight":"",
 					"amount_font_size": "",
-					"amount_font_color": "",	
-					"amount_font_weight":""
+					"amount_font_color": "red",	
+					"amount_font_weight":"bold"
 				},
 				
 				"totalAmount" : {
-					"background_color": "",
-					"font_size":"",
-					"font_color":""
+					"background_color": "white",
+					"font_size":"18px",
+					"font_color":"red"
 				}
 
 			},
 			
 
 			"dashboard":{
-				"title_font_color":"",
+				"title_font_color":"red",
 				"title_font_size":"",
 				"subtitle_font_color":"",
 				"subtitle_font_size":""
@@ -76,25 +76,25 @@ permalink: /assets/json/customize_1.json
 
 			"welcomeMessage" : {
 				"font_size":"",
-				"font_color":""
+				"font_color":"green"
 			},
 			
 
 
 			"sideMenu" : {
-					"menu_background_image":"",
+					"menu_background_image":"http://blog.synergy-gb.com/assets/img/AIB/BG/Recursos-02.png",
 					"font_size":"",
 					"font_color":"",
 					"text_align":"",
-					"font_weight": ""
+					"font_weight": "center"
 			},
 
 
 			"icons":{
-				"arrow_summary": "",
-				"detail_calendar": "",
-				"detail_forward":"",
-				"search": ""
+				"arrow_summary": "ion-pizza",
+				"detail_calendar": "ion-pizza",
+				"detail_forward":"ion-pizza",
+				"search": "ion-pizza"
 			}
 	
   },
