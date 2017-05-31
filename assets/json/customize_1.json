@@ -112,7 +112,7 @@ permalink: /assets/json/customize_1.json
 
 		   "login":{
 				"bank_logo":"https://image.flaticon.com/icons/svg/263/263145.svg",
-				"synergy_footer":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"synergy_footer":"",
 				"login_background":"http://blog.synergy-gb.com/assets/img/BNP/BG/Recursos%20BNP_Kiraso-02.png"
 			},
 
