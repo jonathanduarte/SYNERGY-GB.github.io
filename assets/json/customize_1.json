@@ -20,7 +20,7 @@ permalink: /assets/json/customize_1.json
 			},	
 			
 			"appHeader" : {
-				"app_header_color": "",
+				"app_header_color": "orange",
 				"app_header_font_size": "",
 				"app_header_font_color" : ""
 			},
@@ -35,7 +35,7 @@ permalink: /assets/json/customize_1.json
 			},
 			
 			"sectionTitle" : {
-				"background_color": "",
+				"background_color": "orange",
 				"font_size":"",
 				"font_color":"",
 				"text_align":"",
@@ -103,10 +103,10 @@ permalink: /assets/json/customize_1.json
 
 		  "dashboard":{
 				"welcomeResource":"",
-				"login_icon":"",
-				"tutorial_icon":"",
-				"location_icon":"",
-				"contact_icon":"",
+				"login_icon":"https://image.flaticon.com/icons/svg/263/263145.sv",
+				"tutorial_icon":"https://image.flaticon.com/icons/svg/263/263145.sv",
+				"location_icon":"https://image.flaticon.com/icons/svg/263/263145.sv",
+				"contact_icon":"https://image.flaticon.com/icons/svg/263/263145.sv",
 				"dashboard_background":""
 			},
 
@@ -159,9 +159,9 @@ permalink: /assets/json/customize_1.json
 		    },
 
 		   "side_menu":{
-				"summary_icon":"",
+				"summary_icon":"https://image.flaticon.com/icons/svg/263/263145.sv",
 				"transfer_icon":"",
-				"p2p_icon":"",
+				"p2p_icon":"https://image.flaticon.com/icons/svg/263/263145.sv",
 				"requests_icon":"",
 				"credits_icon":"",
 				"approvals_icon":"",
@@ -171,9 +171,9 @@ permalink: /assets/json/customize_1.json
 		   },
 
 		    "summary":{
-				"section_icon":"",
+				"section_icon":"https://image.flaticon.com/icons/svg/263/263145.sv",
 				"saving_icon":"",
-				"card_icon":"",
+				"card_icon":"https://image.flaticon.com/icons/svg/263/263145.sv",
 				"checking_icon":"",
 				"credit_icon":"",
 				"default_icon":""
@@ -190,7 +190,7 @@ permalink: /assets/json/customize_1.json
 
 		   "transfers":{
 		        "origin_account_icon":"",
-				"transfer_progress_1":"",
+				"transfer_progress_1":"https://image.flaticon.com/icons/svg/263/263145.sv",
 				"transfer_progress_2":"",
 				"transfer_progress_3":"",
 				"transfer_progress_4":"",
