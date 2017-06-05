@@ -196,6 +196,12 @@ permalink: /assets/json/customize_1.json
 				"transfer_progress_4":"",
 				"transfer_progress_5":""
 		   }
+	},
+
+	"text":{
+
+		"dashboard_login_title": "yeahh",
+
 	}
 }
 
