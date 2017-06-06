@@ -171,7 +171,7 @@ permalink: /assets/json/customize_1.json
 		   },
 
 		    "summary":{
-				"section_icon":"",
+				"section_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
 				"saving_icon":"",
 				"card_icon":"",
 				"checking_icon":"",
