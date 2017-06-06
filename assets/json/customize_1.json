@@ -16,7 +16,7 @@ permalink: /assets/json/customize_1.json
 				"title_font_color": "",
 				"title_font_weight": "",
 				"default_color": "red",
-				"default_background" : ""
+				"default_background" : "http://blog.synergy-gb.com/assets/img/AIB/BG/Recursos-02.png"
 			},	
 			
 			"appHeader" : {
@@ -26,11 +26,11 @@ permalink: /assets/json/customize_1.json
 			},
 
 			"button" : {
-				"default_button_color" : "tranparent",
-				"default_button_font_color" : "blue",
+				"default_button_color" : "",
+				"default_button_font_color" : "",
 				"default_button_font_size" : "",
 				"default_button_font_weight": "",
-				"button_border":"2px solid blue",
+				"button_border":"",
 				"button_border_radius":""
 			},
 			
@@ -82,7 +82,7 @@ permalink: /assets/json/customize_1.json
 
 
 			"sideMenu" : {
-					"menu_background_image":"",
+					"menu_background_image":"http://blog.synergy-gb.com/assets/img/AIB/BG/Recursos-02.png",
 					"font_size":"",
 					"font_color":"",
 					"text_align":"",
