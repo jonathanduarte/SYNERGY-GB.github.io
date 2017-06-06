@@ -107,7 +107,7 @@ permalink: /assets/json/customize_1.json
 				"tutorial_icon":"",
 				"location_icon":"",
 				"contact_icon":"",
-				"dashboard_background":"http://blog.synergy-gb.com/assets/img/AIB/BG/Recursos-02.png"
+				"dashboard_background":""
 			},
 
 		   "login":{
