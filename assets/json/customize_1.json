@@ -20,14 +20,14 @@ permalink: /assets/json/customize_1.json
 			},	
 			
 			"appHeader" : {
-				"app_header_color": "",
+				"app_header_color": "#f48E30",
 				"app_header_font_size": "",
 				"app_header_font_color" : ""
 			},
 
 			"button" : {
-				"default_button_color" : "",
-				"default_button_font_color" : "",
+				"default_button_color" : "#f48E30",
+				"default_button_font_color" : "white",
 				"default_button_font_size" : "",
 				"default_button_font_weight": "",
 				"button_border":"",
@@ -35,7 +35,7 @@ permalink: /assets/json/customize_1.json
 			},
 			
 			"sectionTitle" : {
-				"background_color": "",
+				"background_color": "#5d717d",
 				"font_size":"",
 				"font_color":"",
 				"text_align":"",
@@ -48,8 +48,8 @@ permalink: /assets/json/customize_1.json
 				"border":"",
 
 				"instrument" : {
-					"account_font_size": "12px",
-					"account_font_color": "green",
+					"account_font_size": "",
+					"account_font_color": "",
 					"account_font_weight":"",
 					"amount_font_size": "",
 					"amount_font_color": "",	
@@ -57,7 +57,7 @@ permalink: /assets/json/customize_1.json
 				},
 				
 				"totalAmount" : {
-					"background_color": "red",
+					"background_color": "#f48E30",
 					"font_size":"",
 					"font_color":""
 				}
