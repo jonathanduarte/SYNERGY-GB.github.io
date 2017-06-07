@@ -103,10 +103,10 @@ permalink: /assets/json/customize_1.json
 
 		  "dashboard":{
 				"welcomeResource":"",
-				"login_icon":"",
-				"tutorial_icon":"",
-				"location_icon":"",
-				"contact_icon":"",
+				"login_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"tutorial_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"location_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"contact_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
 				"dashboard_background":""
 			},
 
