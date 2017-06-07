@@ -39,7 +39,7 @@ permalink: /assets/json/customize_1.json
 				"font_size":"",
 				"font_color":"",
 				"text_align":"",
-				"font_weight": "",
+				"font_weight": "bold",
 				"border":""	
 			},
 
@@ -48,8 +48,8 @@ permalink: /assets/json/customize_1.json
 				"border":"",
 
 				"instrument" : {
-					"account_font_size": "",
-					"account_font_color": "",
+					"account_font_size": "12px",
+					"account_font_color": "green",
 					"account_font_weight":"",
 					"amount_font_size": "",
 					"amount_font_color": "",	
@@ -57,7 +57,7 @@ permalink: /assets/json/customize_1.json
 				},
 				
 				"totalAmount" : {
-					"background_color": "",
+					"background_color": "red",
 					"font_size":"",
 					"font_color":""
 				}
