@@ -44,15 +44,15 @@ permalink: /assets/json/customize_1.json
 			},
 
 			"secondaryContainer" : {
-				"background_color": "black",
+				"background_color": "",
 				"border":"",
 
 				"instrument" : {
 					"account_font_size": "",
-					"account_font_color": "white",
+					"account_font_color": "",
 					"account_font_weight":"",
 					"amount_font_size": "",
-					"amount_font_color": "white",	
+					"amount_font_color": "",	
 					"amount_font_weight":""
 				},
 				
