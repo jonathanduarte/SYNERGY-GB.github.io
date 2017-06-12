@@ -172,10 +172,10 @@ permalink: /assets/json/customize_1.json
 
 		    "summary":{
 				"section_icon":"",
-				"saving_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-				"card_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-				"checking_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-				"credit_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"saving_icon":"",
+				"card_icon":"",
+				"checking_icon":"",
+				"credit_icon":"",
 				"default_icon":""
 		    },
 
