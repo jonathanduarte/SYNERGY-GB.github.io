@@ -159,14 +159,14 @@ permalink: /assets/json/customize_activo.json
 		    },
 
 		   "side_menu":{
-				"summary_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-24.svg",
-				"transfer_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-25.svg",
-				"p2p_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-83.svg",
-				"credits_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-83.svg",
-				"requests_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-26.svg",
+				"summary_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/componente-15.svg",
+				"transfer_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/componente-08.svg",
+				"p2p_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-23.svg",
+				"credits_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/componente-12.svg",
+				"requests_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/componente-09.svg",
 				"approvals_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-26.svg",
 				"about_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-27.svg",
-				"close_session_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/Recursos-28.svg",
+				"close_session_icon":"http://blog.synergy-gb.com/assets/img/AIB/ICONOS/componente-13.svg",
 				"synergy_logo":""
 		   },
 
