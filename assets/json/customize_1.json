@@ -114,7 +114,7 @@ permalink: /assets/json/customize_1.json
 				"bank_logo":"",
 				"synergy_footer":"",
 				"login_background":"http://blog.synergy-gb.com/assets/img/AIB/BG/Recursos-02.png"
-			}
+			},
 
 		   "location":{
 				"marker_icon":"",
@@ -171,12 +171,12 @@ permalink: /assets/json/customize_1.json
 		   },
 
 		    "summary":{
-				"section_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-				"saving_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-				"card_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-				"checking_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-				"credit_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-				"default_icon":"https://image.flaticon.com/icons/svg/263/263145.svg"
+				"section_icon":"https://image.flaticon.com/icons/svg/263.svg",
+				"saving_icon":"https://image.flaticon.com/icons/svg45.svg",
+				"card_icon":"https://image.flaticon.com/icons3145.svg",
+				"checking_icon":"https://image.flaticon.com/icon/263/263145.svg",
+				"credit_icon":"https://image.flaticon.com/icons/svg/263145.svg",
+				"default_icon":"https://image.flaticon.com/ico63/263145.svg"
 		    },
 
 		    "details":{
