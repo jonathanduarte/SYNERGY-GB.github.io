@@ -10,10 +10,10 @@ permalink: /assets/json/customize_1.json
 			"common": {
 				"app_default_font_family":"",
 				"common_font_size": "",
-				"common_font_color": "",
+				"common_font_color": "red",
 				"common_font_weight": "",
 				"title_font_size": "",
-				"title_font_color": "",
+				"title_font_color": "blue",
 				"title_font_weight": "",
 				"default_color": "#c6093b",
 				"default_background" : "http://blog.synergy-gb.com/assets/img/AIB/BG/Recursos-02.png"
@@ -22,12 +22,12 @@ permalink: /assets/json/customize_1.json
 			"appHeader" : {
 				"app_header_color": "#c6093b",
 				"app_header_font_size": "",
-				"app_header_font_color" : ""
+				"app_header_font_color" : "green"
 			},
 
 			"button" : {
-				"default_button_color" : "",
-				"default_button_font_color" : "",
+				"default_button_color" : "gold",
+				"default_button_font_color" : "green",
 				"default_button_font_size" : "",
 				"default_button_font_weight": "",
 				"button_border":"",
@@ -37,7 +37,7 @@ permalink: /assets/json/customize_1.json
 			"sectionTitle" : {
 				"background_color": "#c6093b",
 				"font_size":"",
-				"font_color":"",
+				"font_color":"green",
 				"text_align":"",
 				"font_weight": "",
 				"border":""	
@@ -49,17 +49,17 @@ permalink: /assets/json/customize_1.json
 
 				"instrument" : {
 					"account_font_size": "",
-					"account_font_color": "",
+					"account_font_color": "yellow",
 					"account_font_weight":"",
 					"amount_font_size": "",
-					"amount_font_color": "",	
+					"amount_font_color": "red",	
 					"amount_font_weight":""
 				},
 				
 				"totalAmount" : {
 					"background_color": "#c6093b",
 					"font_size":"",
-					"font_color":""
+					"font_color":"red"
 				}
 
 			},
