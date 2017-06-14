@@ -103,10 +103,10 @@ permalink: /assets/json/customize_1.json
 
 		  "dashboard":{
 				"welcomeResource":"",
-				"login_icon":"",
-				"tutorial_icon":"",
-				"location_icon":"",
-				"contact_icon":"",
+				"login_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"tutorial_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"location_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"contact_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
 				"dashboard_background":"http://blog.synergy-gb.com/assets/img/AIB/BG/Recursos-02.png"
 			},
 
@@ -159,28 +159,28 @@ permalink: /assets/json/customize_1.json
 		    },
 
 		   "side_menu":{
-				"summary_icon":"",
-				"transfer_icon":"",
-				"p2p_icon":"",
-				"requests_icon":"",
-				"credits_icon":"",
-				"approvals_icon":"",
-				"about_icon":"",
-				"close_session_icon":"",
-				"synergy_logo":""
+				"summary_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"transfer_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"p2p_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"requests_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"credits_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"approvals_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"about_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"close_session_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"synergy_logo":"https://image.flaticon.com/icons/svg/263/263145.svg"
 		   },
 
 		    "summary":{
-				"section_icon":"",
-				"saving_icon":"",
-				"card_icon":"",
-				"checking_icon":"",
-				"credit_icon":"",
-				"default_icon":""
+				"section_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"saving_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"card_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"checking_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"credit_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"default_icon":"https://image.flaticon.com/icons/svg/263/263145.svg"
 		    },
 
 		    "details":{
-				"banner":""
+				"banner":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/OTROS/componente-48.png"
 			},
 
 		   "dates":{
