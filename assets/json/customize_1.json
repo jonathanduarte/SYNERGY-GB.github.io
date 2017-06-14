@@ -15,12 +15,12 @@ permalink: /assets/json/customize_1.json
 				"title_font_size": "",
 				"title_font_color": "",
 				"title_font_weight": "",
-				"default_color": "#1756a7",
+				"default_color": "#c6093b",
 				"default_background" : "http://blog.synergy-gb.com/assets/img/AIB/BG/Recursos-02.png"
 			},	
 			
 			"appHeader" : {
-				"app_header_color": "#1756a7",
+				"app_header_color": "#c6093b",
 				"app_header_font_size": "",
 				"app_header_font_color" : ""
 			},
@@ -35,7 +35,7 @@ permalink: /assets/json/customize_1.json
 			},
 			
 			"sectionTitle" : {
-				"background_color": "#1756a7",
+				"background_color": "#c6093b",
 				"font_size":"",
 				"font_color":"",
 				"text_align":"",
@@ -57,7 +57,7 @@ permalink: /assets/json/customize_1.json
 				},
 				
 				"totalAmount" : {
-					"background_color": "#1756a7",
+					"background_color": "#c6093b",
 					"font_size":"",
 					"font_color":""
 				}
