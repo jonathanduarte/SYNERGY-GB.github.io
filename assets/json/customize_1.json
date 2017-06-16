@@ -26,12 +26,12 @@ permalink: /assets/json/customize_1.json
 			},
 
 			"button" : {
-				"default_button_color" : "",
-				"default_button_font_color" : "",
-				"default_button_font_size" : "",
-				"default_button_font_weight": "",
-				"button_border":"",
-				"button_border_radius":""
+				"default_button_color" : "yellow",
+				"default_button_font_color" : "black",
+				"default_button_font_size" : "11px",
+				"default_button_font_weight": "bold",
+				"button_border":"2px solid black",
+				"button_border_radius":"30px"
 			},
 			
 			"sectionTitle" : {
