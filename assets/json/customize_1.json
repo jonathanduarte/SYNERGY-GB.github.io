@@ -35,7 +35,7 @@ permalink: /assets/json/customize_1.json
 			},
 			
 			"sectionTitle" : {
-				"background_color": "",
+				"background_color": "#c6093b",
 				"font_size":"",
 				"font_color":"",
 				"text_align":"",
@@ -171,12 +171,12 @@ permalink: /assets/json/customize_1.json
 		   },
 
 		    "summary":{
-				"section_icon":"",
-				"saving_icon":"1",
-				"card_icon":"2",
-				"checking_icon":"3",
-				"credit_icon":"4",
-				"default_icon":"5"
+				"section_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"saving_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"card_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"checking_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"credit_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"default_icon":"https://image.flaticon.com/icons/svg/263/263145.svg"
 		    },
 
 		    "details":{
