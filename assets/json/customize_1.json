@@ -66,8 +66,8 @@ permalink: /assets/json/customize_1.json
 			
 
 			"dashboard":{
-				"title_font_color":"green",
-				"title_font_size":"20px",
+				"title_font_color":"",
+				"title_font_size":"",
 				"subtitle_font_color":"",
 				"subtitle_font_size":""
 				
