@@ -92,7 +92,7 @@ permalink: /assets/json/customize_1.json
 
 			"icons":{
 				"arrow_summary": "",
-				"detail_calendar": "",
+				"detail_calendar": "ion-pizza",
 				"detail_forward":"",
 				"search": ""
 			}
