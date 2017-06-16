@@ -20,7 +20,7 @@ permalink: /assets/json/customize_1.json
 			},	
 			
 			"appHeader" : {
-				"app_header_color": "yellow",
+				"app_header_color": "",
 				"app_header_font_size": "",
 				"app_header_font_color" : ""
 			},
@@ -35,7 +35,7 @@ permalink: /assets/json/customize_1.json
 			},
 			
 			"sectionTitle" : {
-				"background_color": "",
+				"background_color": "yellow",
 				"font_size":"",
 				"font_color":"",
 				"text_align":"",
