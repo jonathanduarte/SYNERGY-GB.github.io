@@ -173,11 +173,11 @@ permalink: /assets/json/customize_1.json
 		    "summary":{
 				"section_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
 				"saving_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-				"card_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-				"checking_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-				"credit_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-				"default_icon":"https://image.flaticon.com/icons/svg/263/263145.svg"
-		    
+				"card_icon":"https://image.flaticon.com/icons/3/263145.svg",
+				"checking_icon":"https://image.flaticon.com/icons/sv",
+				"credit_icon":"https://image.flaticon.com/icvg/263/263145.svg",
+				"default_icon":"https://image.flaticon.cns/svg/263/263145.svg"
+		    },
 
 		    "details":{
 				"banner":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/OTROS/componente-48.png"
