@@ -96,8 +96,8 @@ permalink: /assets/json/customize_1.json
 			},
 
 			"switch":{
-				"switch_color": "",
-				"switch_text_color":""
+				"switch_color": "yellow",
+				"switch_text_color":"red"
 			}
   },
 
