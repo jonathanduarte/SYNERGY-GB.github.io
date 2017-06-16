@@ -10,24 +10,24 @@ permalink: /assets/json/customize_1.json
 			"common": {
 				"app_default_font_family":"",
 				"common_font_size": "",
-				"common_font_color": "red",
+				"common_font_color": "",
 				"common_font_weight": "",
 				"title_font_size": "",
-				"title_font_color": "blue",
+				"title_font_color": "",
 				"title_font_weight": "",
-				"default_color": "#c6093b",
+				"default_color": "",
 				"default_background" : "http://blog.synergy-gb.com/assets/img/AIB/BG/Recursos-02.png"
 			},	
 			
 			"appHeader" : {
-				"app_header_color": "#c6093b",
+				"app_header_color": "",
 				"app_header_font_size": "",
-				"app_header_font_color" : "green"
+				"app_header_font_color" : ""
 			},
 
 			"button" : {
-				"default_button_color" : "gold",
-				"default_button_font_color" : "green",
+				"default_button_color" : "",
+				"default_button_font_color" : "",
 				"default_button_font_size" : "",
 				"default_button_font_weight": "",
 				"button_border":"",
@@ -35,9 +35,9 @@ permalink: /assets/json/customize_1.json
 			},
 			
 			"sectionTitle" : {
-				"background_color": "#c6093b",
+				"background_color": "",
 				"font_size":"",
-				"font_color":"green",
+				"font_color":"",
 				"text_align":"",
 				"font_weight": "",
 				"border":""	
@@ -49,26 +49,26 @@ permalink: /assets/json/customize_1.json
 
 				"instrument" : {
 					"account_font_size": "",
-					"account_font_color": "yellow",
+					"account_font_color": "",
 					"account_font_weight":"",
 					"amount_font_size": "",
-					"amount_font_color": "red",	
+					"amount_font_color": "",	
 					"amount_font_weight":""
 				},
 				
 				"totalAmount" : {
-					"background_color": "#c6093b",
+					"background_color": "",
 					"font_size":"",
-					"font_color":"red"
+					"font_color":""
 				}
 
 			},
 			
 
 			"dashboard":{
-				"title_font_color":"#1756a7",
+				"title_font_color":"",
 				"title_font_size":"",
-				"subtitle_font_color":"#1756a7",
+				"subtitle_font_color":"",
 				"subtitle_font_size":""
 				
 			},
@@ -76,7 +76,7 @@ permalink: /assets/json/customize_1.json
 
 			"welcomeMessage" : {
 				"font_size":"",
-				"font_color":"#1756a7"
+				"font_color":""
 			},
 			
 
@@ -84,7 +84,7 @@ permalink: /assets/json/customize_1.json
 			"sideMenu" : {
 					"menu_background_image":"http://blog.synergy-gb.com/assets/img/AIB/BG/Recursos-02.png",
 					"font_size":"",
-					"font_color":"#1756a7",
+					"font_color":"",
 					"text_align":"",
 					"font_weight": ""
 			},
@@ -103,17 +103,17 @@ permalink: /assets/json/customize_1.json
 
 		  "dashboard":{
 				"welcomeResource":"",
-				"login_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-				"tutorial_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-				"location_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-				"contact_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
+				"login_icon":"",
+				"tutorial_icon":"",
+				"location_icon":"",
+				"contact_icon":"",
 				"dashboard_background":"http://blog.synergy-gb.com/assets/img/AIB/BG/Recursos-02.png"
 			},
 
 		   "login":{
 				"bank_logo":"",
 				"synergy_footer":"",
-				"login_background":"http://blog.synergy-gb.com/assets/img/AIB/BG/Recursos-02.png"
+				"login_background":""
 			},
 
 		   "location":{
@@ -159,19 +159,19 @@ permalink: /assets/json/customize_1.json
 		    },
 
 		   "side_menu":{
-				"summary_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-				"transfer_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-				"p2p_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-				"requests_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-				"credits_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-				"approvals_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-				"about_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-				"close_session_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
-				"synergy_logo":"https://image.flaticon.com/icons/svg/263/263145.svg"
+				"summary_icon":"",
+				"transfer_icon":"",
+				"p2p_icon":"",
+				"requests_icon":"",
+				"credits_icon":"",
+				"approvals_icon":"",
+				"about_icon":"",
+				"close_session_icon":"",
+				"synergy_logo":""
 		   },
 
 		    "summary":{
-				"section_icon":"https://image.flaticon.com/icons/",
+				"section_icon":"",
 				"saving_icon":"1",
 				"card_icon":"2",
 				"checking_icon":"3",
