@@ -113,7 +113,7 @@ permalink: /assets/json/customize_1.json
 		   "login":{
 				"bank_logo":"",
 				"synergy_footer":"",
-				"login_background":"http://blog.synergy-gb.com/assets/img/AIB/BG/Recursos-02.png"
+				"login_background":""
 			},
 
 		   "location":{
