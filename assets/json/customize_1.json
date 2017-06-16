@@ -15,7 +15,7 @@ permalink: /assets/json/customize_1.json
 				"title_font_size": "",
 				"title_font_color": "",
 				"title_font_weight": "",
-				"default_color": "",
+				"default_color": "green",
 				"default_background" : "http://blog.synergy-gb.com/assets/img/AIB/BG/Recursos-02.png"
 			},	
 			
