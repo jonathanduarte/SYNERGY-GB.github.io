@@ -66,7 +66,7 @@ permalink: /assets/json/customize_1.json
 			
 
 			"dashboard":{
-				"title_font_color":"",
+				"title_font_color":"red",
 				"title_font_size":"",
 				"subtitle_font_color":"",
 				"subtitle_font_size":""
@@ -104,7 +104,7 @@ permalink: /assets/json/customize_1.json
   "resources": {
 
 		  "dashboard":{
-				"welcomeResource":"",
+				"welcomeResource":"https://image.flaticon.com/icons/svg/263/263145.svg",
 				"login_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
 				"tutorial_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
 				"location_icon":"https://image.flaticon.com/icons/svg/263/263145.svg",
