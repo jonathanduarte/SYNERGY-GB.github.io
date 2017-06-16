@@ -190,11 +190,11 @@ permalink: /assets/json/customize_1.json
 
 		   "transfers":{
 		        "origin_account_icon":"",
-				"transfer_progress_1":"",
-				"transfer_progress_2":"",
-				"transfer_progress_3":"",
-				"transfer_progress_4":"",
-				"transfer_progress_5":""
+				"transfer_progress_1":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/OTROS/componente-49.svg",
+				"transfer_progress_2":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/OTROS/componente-50.svg",
+				"transfer_progress_3":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/OTROS/componente-51.svg",
+				"transfer_progress_4":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/OTROS/componente-52.svg",
+				"transfer_progress_5":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/OTROS/componente-53.svg"
 		   }
 	}
 }
