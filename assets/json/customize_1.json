@@ -107,13 +107,13 @@ permalink: /assets/json/customize_1.json
 				"tutorial_icon":"",
 				"location_icon":"",
 				"contact_icon":"",
-				"dashboard_background":""
+				"dashboard_background":"http://blog.synergy-gb.com/assets/img/AIB/BG/Recursos-02.png"
 			},
 
 		   "login":{
 				"bank_logo":"",
 				"synergy_footer":"",
-				"login_background":""
+				"login_background":"http://blog.synergy-gb.com/assets/img/AIB/BG/Recursos-02.png"
 			},
 
 		   "location":{
