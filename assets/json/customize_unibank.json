@@ -95,6 +95,11 @@ permalink: /assets/json/customize_unibank.json
 				"detail_calendar": "",
 				"detail_forward":"",
 				"search": ""
+			},
+
+			"switch":{
+				"switch_color": "",
+				"switch_text_color":""
 			}
 	
   },
