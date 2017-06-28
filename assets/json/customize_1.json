@@ -162,13 +162,13 @@ permalink: /assets/json/customize_1.json
 
 		   "side_menu":{
 				"summary_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-20.svg",
-				"transfer_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-19.svg",
-				"p2p_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-22.svg",
+				"transfer_icon":"",
+				"p2p_icon":"",
 				"credits_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-18.svg",
-				"requests_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-21.svg",
+				"requests_icon":"",
 				"approvals_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-21.svg",
 				"about_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-23.svg",
-				"close_session_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-24.svg",
+				"close_session_icon":"",
 				"synergy_logo":""
 		   },
 
