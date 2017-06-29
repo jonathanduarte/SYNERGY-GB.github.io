@@ -26,8 +26,8 @@ permalink: /assets/json/customize_1.json
 			},
 
 			"button" : {
-				"default_button_color" : "black",
-				"default_button_font_color" : "white",
+				"default_button_color" : "",
+				"default_button_font_color" : "",
 				"default_button_font_size" : "",
 				"default_button_font_weight": "",
 				"button_border":"",
@@ -35,12 +35,12 @@ permalink: /assets/json/customize_1.json
 			},
 			
 			"sectionTitle" : {
-				"background_color": "Red",
-				"font_size":"19px",
-				"font_color":"green",
+				"background_color": "",
+				"font_size":"",
+				"font_color":"",
 				"text_align":"",
-				"font_weight": "bold",
-				"border":"3px solid black"	
+				"font_weight": "",
+				"border":""	
 			},
 
 			"secondaryContainer" : {
@@ -96,8 +96,8 @@ permalink: /assets/json/customize_1.json
 			},
 
 			"switch":{
-				"switch_color": "purple",
-				"switch_text_color":"red"
+				"switch_color": "",
+				"switch_text_color":""
 			}
   },
 
