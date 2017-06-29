@@ -35,12 +35,12 @@ permalink: /assets/json/customize_1.json
 			},
 			
 			"sectionTitle" : {
-				"background_color": "",
-				"font_size":"",
-				"font_color":"",
+				"background_color": "Red",
+				"font_size":"19px",
+				"font_color":"green",
 				"text_align":"",
-				"font_weight": "",
-				"border":""	
+				"font_weight": "bold",
+				"border":"3px solid black"	
 			},
 
 			"secondaryContainer" : {
