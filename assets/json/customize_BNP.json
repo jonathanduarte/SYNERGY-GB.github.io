@@ -16,7 +16,7 @@ permalink: /assets/json/customize_BNP.json
 				"title_font_color": "",
 				"title_font_weight": "",
 				"default_color": "#c6093b",
-				"default_background" : "http://blog.synergy-gb.com/assets/img/AIB/BG/Recursos-02.png"
+				"default_background" : "http://blog.synergy-gb.com/assets/img/BNP/BG/Recursos%20BNP_Kiraso-03.png"
 			},	
 			
 			"appHeader" : {
@@ -82,7 +82,7 @@ permalink: /assets/json/customize_BNP.json
 
 
 			"sideMenu" : {
-					"menu_background_image":"http://blog.synergy-gb.com/assets/img/AIB/BG/Recursos-02.png",
+					"menu_background_image":"http://blog.synergy-gb.com/assets/img/BNP/BG/Recursos%20BNP_Kiraso-03.png",
 					"font_size":"14px",
 					"font_color":"black",
 					"text_align":"",
@@ -91,10 +91,10 @@ permalink: /assets/json/customize_BNP.json
 
 
 			"icons":{
-				"arrow_summary": "ion-pizza",
-				"detail_calendar": "ion-pizza",
-				"detail_forward":"ion-pizza",
-				"search": "ion-pizza"
+				"arrow_summary": "",
+				"detail_calendar": "",
+				"detail_forward":"",
+				"search": ""
 			},
 
 			"switch":{
@@ -185,7 +185,7 @@ permalink: /assets/json/customize_BNP.json
 		    },
 
 		    "details":{
-				"banner":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/OTROS/componente-48.png"
+				"banner":""
 			},
 
 		   "dates":{
