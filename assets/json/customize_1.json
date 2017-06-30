@@ -16,13 +16,13 @@ permalink: /assets/json/customize_1.json
 				"title_font_color": "",
 				"title_font_weight": "",
 				"default_color": "#c6093b",
-				"default_background" : ""
+				"default_background" : "http://blog.synergy-gb.com/assets/img/AIB/BG/Recursos-02.png"
 			},	
 			
 			"appHeader" : {
-				"app_header_color": "",
+				"app_header_color": "#f48E30",
 				"app_header_font_size": "",
-				"app_header_font_color" : ""
+				"app_header_font_color" : "yellow"
 			},
 
 			"button" : {
@@ -57,7 +57,7 @@ permalink: /assets/json/customize_1.json
 				},
 				
 				"totalAmount" : {
-					"background_color": "",
+					"background_color": "#c6093b",
 					"font_size":"",
 					"font_color":""
 				}
@@ -80,7 +80,7 @@ permalink: /assets/json/customize_1.json
 			},
 			
 			"sideMenu" : {
-					"menu_background_image":"",
+					"menu_background_image":"http://blog.synergy-gb.com/assets/img/AIB/BG/Recursos-02.png",
 					"font_size":"",
 					"font_color":"",
 					"text_align":"",
@@ -103,19 +103,19 @@ permalink: /assets/json/customize_1.json
 
   "resources": {
 
-		  "dashboard":{
-				"welcomeResource":"",
-				"login_icon":"",
-				"tutorial_icon":"",
-				"location_icon":"",
-				"contact_icon":"",
-				"dashboard_background":""
+		   "dashboard":{
+				"welcomeResource":"http://blog.synergy-gb.com/assets/img/BNP/LOGOS/Recursos%20BNP_Kiraso-03.png",
+				"login_icon":"http://blog.synergy-gb.com/assets/img/BNP/ICONOS/Recursos%20BNP_Kiraso-07.png",
+				"tutorial_icon":"http://blog.synergy-gb.com/assets/img/BNP/ICONOS/Recursos%20BNP_Kiraso-08.png",
+				"location_icon":"http://blog.synergy-gb.com/assets/img/BNP/ICONOS/Recursos%20BNP_Kiraso-10.png",
+				"contact_icon":"http://blog.synergy-gb.com/assets/img/BNP/ICONOS/Recursos%20BNP_Kiraso-09.png",
+				"dashboard_background":"http://blog.synergy-gb.com/assets/img/BNP/BG/Recursos%20BNP_Kiraso-02.png"
 			},
 
 		   "login":{
-				"bank_logo":"",
+				"bank_logo":"http://blog.synergy-gb.com/assets/img/BNP/LOGOS/Recursos%20BNP_Kiraso-03.png",
 				"synergy_footer":"",
-				"login_background":""
+				"login_background":"http://blog.synergy-gb.com/assets/img/BNP/BG/Recursos%20BNP_Kiraso-02.png"
 			},
 
 		   "location":{
@@ -126,63 +126,63 @@ permalink: /assets/json/customize_1.json
 
 		   "contact":{
 				"address":{
-					"info":"Av. FFAA",
-					"resource":"https://image.flaticon.com/icons/svg/263/263145.svg",
+					"info":"",
+					"resource":"",
 					"title":"contact_address"
 				},
 
 				"phone":{
-					"info":"0000-0000000",
-					"resource":"https://image.flaticon.com/icons/svg/263/263145.svg",
+					"info":"",
+					"resource":"",
 					"title":"contact_phone_numbers",
-					"number":"+5805017529200"
+					"number":""
 				},
 				"hours":{
-					"info":"1:00PM-3:00pm",
-					"resource":"https://image.flaticon.com/icons/svg/263/263145.svg",
+					"info":"",
+					"resource":"",
 					"title":"contact_hours"
 				},
 				"social1":{
 					"info":"contact_twitter_desc",
-					"resource":"https://image.flaticon.com/icons/svg/263/263145.svg",
-					"url":"https://twitter.com/SynergyGB"
+					"resource":"",
+					"url":""
 				},
 
 				"social2":{
 					"info":"contact_facebook_desc",
-					"resource":"https://image.flaticon.com/icons/svg/263/263145.svg",
-					"url":"https://www.facebook.com/SynergyGB/"
+					"resource":"",
+					"url":""
 				},
 				"social3":{
 					"info":"contact_youtube_desc",
-					"resource":"https://image.flaticon.com/icons/svg/263/263145.svg",
-					"url":"https://www.youtube.com/user/SynergyGB"
+					"resource":"",
+					"url":""
 				}
 		    },
 
 		   "side_menu":{
-				"summary_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-20.svg",
-				"transfer_icon":"",
-				"p2p_icon":"",
-				"credits_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-18.svg",
-				"requests_icon":"",
-				"approvals_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-21.svg",
-				"about_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-23.svg",
-				"close_session_icon":"",
+				"summary_icon":"http://blog.synergy-gb.com/assets/img/BNP/ICONOS/componente-17.png",
+				"transfer_icon":"http://blog.synergy-gb.com/assets/img/BNP/ICONOS/componente-18.png",
+				"p2p_icon":"http://blog.synergy-gb.com/assets/img/BNP/ICONOS/componente-34.png",
+				"credits_icon":"http://blog.synergy-gb.com/assets/img/BNP/ICONOS/componente-12.png",
+				"requests_icon":"http://blog.synergy-gb.com/assets/img/BNP/ICONOS/Recursos%20BNP_Kiraso-17.png",
+				"approvals_icon":"http://blog.synergy-gb.com/assets/img/BNP/ICONOS/Recursos%20BNP_Kiraso-17.png",
+				"about_icon":"http://blog.synergy-gb.com/assets/img/BNP/ICONOS/componente-15.png",
+				"close_session_icon":"http://blog.synergy-gb.com/assets/img/BNP/ICONOS/componente-16.png",
 				"synergy_logo":""
 		   },
 
 		    "summary":{
-				"section_icon":"",
-				"saving_icon":"1",
-				"card_icon":"2",
-				"checking_icon":"3",
-				"credit_icon":"4",
-				"default_icon":"5"
+				"section_icon":"http://blog.synergy-gb.com/assets/img/BNP/ICONOS/Recursos%20BNP_Kiraso-17.png",
+				"saving_icon":"http://blog.synergy-gb.com/assets/img/BNP/ICONOS/Recursos%20BNP_Kiraso-33.png",
+				"card_icon":"http://blog.synergy-gb.com/assets/img/BNP/ICONOS/Recursos%20BNP_Kiraso-34.png",
+				"checking_icon":"http://blog.synergy-gb.com/assets/img/BNP/ICONOS/Recursos%20BNP_Kiraso-17.png",
+				"credit_icon":"http://blog.synergy-gb.com/assets/img/BNP/ICONOS/Recursos%20BNP_Kiraso-13.png",
+				"default_icon":"http://blog.synergy-gb.com/assets/img/BNP/ICONOS/Recursos%20BNP_Kiraso-17.png"
 		    },
 
 		    "details":{
-				"banner":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/OTROS/componente-48.png"
+				"banner":""
 			},
 
 		   "dates":{
@@ -200,4 +200,3 @@ permalink: /assets/json/customize_1.json
 		   }
 	}
 }
-
