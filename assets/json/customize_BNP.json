@@ -16,7 +16,7 @@ permalink: /assets/json/customize_BNP.json
 				"title_font_color": "",
 				"title_font_weight": "",
 				"default_color": "#c6093b",
-				"default_background" : "http://blog.synergy-gb.com/assets/img/BNP/BG/Recursos%20BNP_Kiraso-03.png"
+				"default_background" : "http://blog.synergy-gb.com/assets/img/AIB/BG/Recursos-02.png"
 			},	
 			
 			"appHeader" : {
@@ -82,7 +82,7 @@ permalink: /assets/json/customize_BNP.json
 
 
 			"sideMenu" : {
-					"menu_background_image":"http://blog.synergy-gb.com/assets/img/BNP/BG/Recursos%20BNP_Kiraso-03.png",
+					"menu_background_image":"http://blog.synergy-gb.com/assets/img/AIB/BG/Recursos-02.png",
 					"font_size":"14px",
 					"font_color":"black",
 					"text_align":"",
