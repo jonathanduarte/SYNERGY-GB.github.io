@@ -51,14 +51,14 @@ permalink: /assets/json/customize_unibank.json
 					"account_font_size": "15px",
 					"account_font_color": "",
 					"account_font_weight":"",
-					"amount_font_size": "20px",
+					"amount_font_size": "19px",
 					"amount_font_color": "",	
 					"amount_font_weight":""
 				},
 				
 				"totalAmount" : {
 					"background_color": "#f48E30",
-					"font_size":"",
+					"font_size":"20px",
 					"font_color":"white"
 				}
 
