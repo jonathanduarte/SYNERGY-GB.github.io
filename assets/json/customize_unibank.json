@@ -51,7 +51,7 @@ permalink: /assets/json/customize_unibank.json
 					"account_font_size": "15px",
 					"account_font_color": "",
 					"account_font_weight":"",
-					"amount_font_size": "",
+					"amount_font_size": "17px",
 					"amount_font_color": "",	
 					"amount_font_weight":""
 				},
