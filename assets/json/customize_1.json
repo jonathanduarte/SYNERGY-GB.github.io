@@ -127,35 +127,35 @@ permalink: /assets/json/customize_1.json
 		   "contact":{
 				"address":{
 					"info":"",
-					"resource":"",
+					"resource":"http://blog.synergy-gb.com/assets/img/original/componente-42.svg",
 					"title":"contact_address"
 				},
 
 				"phone":{
 					"info":"",
-					"resource":"",
+					"resource":"http://blog.synergy-gb.com/assets/img/original/componente-43.svg",
 					"title":"contact_phone_numbers",
 					"number":""
 				},
 				"hours":{
 					"info":"",
-					"resource":"",
+					"resource":"http://blog.synergy-gb.com/assets/img/original/componente-44.svg",
 					"title":"contact_hours"
 				},
 				"social1":{
 					"info":"contact_twitter_desc",
-					"resource":"",
+					"resource":"http://blog.synergy-gb.com/assets/img/original/componente-45.svg",
 					"url":""
 				},
 
 				"social2":{
 					"info":"contact_facebook_desc",
-					"resource":"",
+					"resource":"http://blog.synergy-gb.com/assets/img/original/componente-46.svg",
 					"url":""
 				},
 				"social3":{
 					"info":"contact_youtube_desc",
-					"resource":"",
+					"resource":"http://blog.synergy-gb.com/assets/img/original/componente-47.svg",
 					"url":""
 				}
 		    },
