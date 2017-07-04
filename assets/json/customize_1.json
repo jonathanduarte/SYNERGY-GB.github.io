@@ -26,7 +26,7 @@ permalink: /assets/json/customize_1.json
 			},
 
 			"button" : {
-				"default_button_color" : "black",
+				"default_button_color" : "",
 				"default_button_font_color" : "",
 				"default_button_font_size" : "",
 				"default_button_font_weight": "",
@@ -35,7 +35,7 @@ permalink: /assets/json/customize_1.json
 			},
 			
 			"sectionTitle" : {
-				"background_color": "red",
+				"background_color": "",
 				"font_size":"",
 				"font_color":"",
 				"text_align":"",
@@ -57,7 +57,7 @@ permalink: /assets/json/customize_1.json
 				},
 				
 				"totalAmount" : {
-					"background_color": "#c6093b",
+					"background_color": "",
 					"font_size":"",
 					"font_color":""
 				}
@@ -66,7 +66,7 @@ permalink: /assets/json/customize_1.json
 			
 
 			"dashboard":{
-				"title_font_color":"red",
+				"title_font_color":"",
 				"title_font_size":"",
 				"subtitle_font_color":"",
 				"subtitle_font_size":""
