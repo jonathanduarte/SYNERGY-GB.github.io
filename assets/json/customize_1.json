@@ -35,9 +35,9 @@ permalink: /assets/json/customize_1.json
 			},
 			
 			"sectionTitle" : {
-				"background_color": "yellow",
+				"background_color": "orange",
 				"font_size":"",
-				"font_color":"",
+				"font_color":"#4f4f4f",
 				"text_align":"",
 				"font_weight": "",
 				"border":""	
@@ -89,7 +89,7 @@ permalink: /assets/json/customize_1.json
 
 
 			"icons":{
-				"arrow_summary": "ion-pizza",
+				"arrow_summary": "",
 				"detail_calendar": "",
 				"detail_forward":"",
 				"search": ""
@@ -109,7 +109,7 @@ permalink: /assets/json/customize_1.json
 				"tutorial_icon":"",
 				"location_icon":"",
 				"contact_icon":"",
-				"dashboard_background":"http://blog.synergy-gb.com/assets/img/AIB/BG/Recursos-02.png"
+				"dashboard_background":""
 			},
 
 		   "login":{
@@ -182,7 +182,7 @@ permalink: /assets/json/customize_1.json
 		    },
 
 		    "details":{
-				"banner":""
+				"banner":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/OTROS/componente-48.png"
 			},
 
 		   "dates":{
