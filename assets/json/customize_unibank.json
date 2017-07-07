@@ -49,10 +49,10 @@ permalink: /assets/json/customize_unibank.json
 
 				"instrument" : {
 					"account_font_size": "15px",
-					"account_font_color": "",
+					"account_font_color": "#5d717d",
 					"account_font_weight":"",
 					"amount_font_size": "19px",
-					"amount_font_color": "",	
+					"amount_font_color": "#f48E30",	
 					"amount_font_weight":""
 				},
 				
