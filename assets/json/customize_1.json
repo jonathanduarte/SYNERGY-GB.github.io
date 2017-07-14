@@ -10,24 +10,24 @@ permalink: /assets/json/customize_1.json
 			"common": {
 				"app_default_font_family":"",
 				"common_font_size": "",
-				"common_font_color": "black",
+				"common_font_color": "",
 				"common_font_weight": "",
 				"title_font_size": "",
 				"title_font_color": "",
 				"title_font_weight": "",
-				"default_color": "#5d717d",
+				"default_color": "",
 				"default_background" : ""
 			},	
 			
 			"appHeader" : {
-				"app_header_color": "#f48E30",
+				"app_header_color": "",
 				"app_header_font_size": "",
-				"app_header_font_color" : "white"
+				"app_header_font_color" : ""
 			},
 
 			"button" : {
-				"default_button_color" : "#f48E30",
-				"default_button_font_color" : "white",
+				"default_button_color" : "",
+				"default_button_font_color" : "",
 				"default_button_font_size" : "",
 				"default_button_font_weight": "",
 				"button_border":"",
@@ -35,7 +35,7 @@ permalink: /assets/json/customize_1.json
 			},
 			
 			"sectionTitle" : {
-				"background_color": "#5d717d",
+				"background_color": "",
 				"font_size":"",
 				"font_color":"",
 				"text_align":"",
@@ -48,18 +48,18 @@ permalink: /assets/json/customize_1.json
 				"border":"",
 
 				"instrument" : {
-					"account_font_size": "15px",
-					"account_font_color": "#5d717d",
+					"account_font_size": "",
+					"account_font_color": "",
 					"account_font_weight":"",
-					"amount_font_size": "19px",
-					"amount_font_color": "#f48E30",	
+					"amount_font_size": "",
+					"amount_font_color": "",	
 					"amount_font_weight":""
 				},
 				
 				"totalAmount" : {
-					"background_color": "#f48E30",
-					"font_size":"20px",
-					"font_color":"white"
+					"background_color": "",
+					"font_size":"",
+					"font_color":""
 				}
 
 			},
@@ -79,19 +79,17 @@ permalink: /assets/json/customize_1.json
 				"font_color":""
 			},
 			
-
-
 			"sideMenu" : {
 					"menu_background_image":"",
 					"font_size":"",
-					"font_color":"#4f4f4f",
+					"font_color":"",
 					"text_align":"",
 					"font_weight": ""
 			},
 
 
 			"icons":{
-				"arrow_summary": "ion-arrow-right-b",
+				"arrow_summary": "",
 				"detail_calendar": "",
 				"detail_forward":"",
 				"search": ""
@@ -101,13 +99,12 @@ permalink: /assets/json/customize_1.json
 				"switch_color": "",
 				"switch_text_color":""
 			}
-	
   },
 
   "resources": {
 
 		   "dashboard":{
-				"welcomeResource":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/LOGOS/componente-03.svg",
+				"welcomeResource":"",
 				"login_icon":"",
 				"tutorial_icon":"",
 				"location_icon":"",
@@ -116,7 +113,7 @@ permalink: /assets/json/customize_1.json
 			},
 
 		   "login":{
-				"bank_logo":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/LOGOS/componente-03.svg",
+				"bank_logo":"",
 				"synergy_footer":"",
 				"login_background":""
 			},
@@ -164,24 +161,24 @@ permalink: /assets/json/customize_1.json
 		    },
 
 		   "side_menu":{
-				"summary_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-20.svg",
-				"transfer_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-19.svg",
-				"p2p_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-22.svg",
-				"credits_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-18.svg",
-				"requests_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-21.svg",
-				"approvals_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-21.svg",
-				"about_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-23.svg",
-				"close_session_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-24.svg",
+				"summary_icon":"",
+				"transfer_icon":"",
+				"p2p_icon":"",
+				"credits_icon":"",
+				"requests_icon":"",
+				"approvals_icon":"",
+				"about_icon":"",
+				"close_session_icon":"",
 				"synergy_logo":""
 		   },
 
 		    "summary":{
-				"section_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-23.svg",
-				"saving_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-13.svg",
-				"card_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-14.svg",
-				"checking_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-12.svg",
-				"credit_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-14.svg",
-				"default_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-12.svg"
+				"section_icon":"",
+				"saving_icon":"",
+				"card_icon":"",
+				"checking_icon":"",
+				"credit_icon":"",
+				"default_icon":""
 		    },
 
 		    "details":{
@@ -194,12 +191,12 @@ permalink: /assets/json/customize_1.json
 		   },
 
 		   "transfers":{
-		        "origin_account_icon":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/ICONOS/componente-20.svg",
-				"transfer_progress_1":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/OTROS/componente-49.svg",
-				"transfer_progress_2":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/OTROS/componente-50.svg",
-				"transfer_progress_3":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/OTROS/componente-51.svg",
-				"transfer_progress_4":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/OTROS/componente-52.svg",
-				"transfer_progress_5":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/OTROS/componente-53.svg"
+		        "origin_account_icon":"",
+				"transfer_progress_1":"",
+				"transfer_progress_2":"",
+				"transfer_progress_3":"",
+				"transfer_progress_4":"",
+				"transfer_progress_5":""
 		   }
 	}
 }
