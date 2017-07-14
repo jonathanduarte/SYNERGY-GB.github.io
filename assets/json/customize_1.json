@@ -107,7 +107,7 @@ permalink: /assets/json/customize_1.json
   "resources": {
 
 		   "dashboard":{
-				"welcomeResource":"",
+				"welcomeResource":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/LOGOS/componente-03.svg",
 				"login_icon":"",
 				"tutorial_icon":"",
 				"location_icon":"",
@@ -116,7 +116,7 @@ permalink: /assets/json/customize_1.json
 			},
 
 		   "login":{
-				"bank_logo":"",
+				"bank_logo":"http://blog.synergy-gb.com/assets/img/unibank/Recursos/LOGOS/componente-03.svg",
 				"synergy_footer":"",
 				"login_background":""
 			},
