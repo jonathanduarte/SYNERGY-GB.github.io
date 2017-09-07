@@ -1,16 +1,22 @@
 ---
 layout: inner
-title: 'We have a new Blog...'
-date: 2016-06-08 13:26:34
+title: We have a new Blog...
+date: 'Wed Jun 08 2016 09:26:34 GMT-0400'
 ref: nuevoblog
-lang: en
-categories: [Announcements]
-tags: [Synergy-GB]
-local_featured_image: 'oficina-sgb.png'
+lang:
+  - en
+categories: Announcements
+tags:
+  - Synergy-GB
+local_featured_image: oficina-sgb.png
 author: Alexander A. Ramírez M.
 author_pic: Alexander_Ramirez.jpg
 author_email: alexander.ramirez@synergy-gb.com
-lead_text: 'Nowadays it is extremenly importart to be in touch. Today we are launching our new Blog to share relevant information about what we do and our value proposition to all our followers.'
+lead_text: >-
+  Nowadays it is extremenly importart to be in touch. Today we are launching our
+  new Blog to share relevant information about what we do and our value
+  proposition to all our followers.
+published: true
 ---
 
 We are launching this Blog to provide updated information. It is going to be evolving continuously and will add new and relevant information.
